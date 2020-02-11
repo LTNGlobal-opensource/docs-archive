@@ -4,13 +4,13 @@ layout: default
 canonical: "/puppet/latest/reference/lang_functions.html"
 ---
 
-[func_ref]: ./function.html
+[func_ref]: ./function.markdown
 [forge]: http://forge.puppetlabs.com
-[custom]: /guides/custom_functions.html
+[custom]: https://web.archive.org/docs/puppet/3.8/functions_legacy.html
 [stdlib]: http://forge.puppetlabs.com/puppetlabs/stdlib
-[resource]: ./lang_resources.html
-[custom_facts]: /facter/latest/custom_facts.html
-[datatype]: ./lang_datatypes.html
+[resource]: ./lang_resources.markdown
+[custom_facts]: /facter/latest/custom_facts.markdown
+[datatype]: ./lang_datatypes.markdown
 [catalog]: ./lang_summary.html#compilation-and-catalogs
 
 > * [See the Function Reference for complete info about Puppet's built-in functions.][func_ref]
