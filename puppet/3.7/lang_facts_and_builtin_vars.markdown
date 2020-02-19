@@ -1,27 +1,26 @@
 ---
 layout: default
 title: "Language: Facts and Built-in Variables"
-canonical: "/puppet/latest/reference/lang_facts_and_builtin_vars.html"
 ---
 
-[definedtype]: ./lang_defined_types.html
-[environment]: ./environments.html
+[definedtype]: ./lang_defined_types.markdown
+[environment]: ./environments.markdown
 [topscope]: ./lang_scope.html#top-scope
-[core_facts]: /facter/latest/core_facts.html
+[core_facts]: /facter/latest/core_facts.markdown
 [facter]: /facter/latest
-[customfacts]: /facter/latest/custom_facts.html
+[customfacts]: /facter/latest/custom_facts.markdown
 [external facts]: /facter/latest/custom_facts.html#external-facts
 [catalog]: ./lang_summary.html#compilation-and-catalogs
 [noop]: ./configuration.html#noop
 [certname]: ./configuration.html#certname
-[puppetdb_facts]: /puppetdb/latest/api/index.html
+[puppetdb_facts]: /puppetdb/latest/api/index.markdown
 [localscope]: ./lang_scope.html#local-scopes
 [trusted_on]: ./config_important_settings.html#getting-new-features-early
 [scope]: ./lang_scope
-[extensions]: ./ssl_attributes_extensions.html
+[extensions]: ./ssl_attributes_extensions.markdown
 [structured_facts_on]: ./config_important_settings.html#getting-new-features-early
 [strings]: ./lang_datatypes.html#strings
-[datatypes]: ./lang_datatypes.html
+[datatypes]: ./lang_datatypes.markdown
 [qualified_var_names]: ./lang_variables.html#accessing-out-of-scope-variables
 
 

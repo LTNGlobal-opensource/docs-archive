@@ -1,28 +1,27 @@
 ---
 layout: default
 title: "Configuration: Short List of Important Settings"
-canonical: "/puppet/latest/reference/config_important_settings.html"
 ---
 
 [cli_settings]: ./config_about_settings.html#settings-can-be-set-on-the-command-line
-[trusted_and_facts]: ./lang_facts_and_builtin_vars.html
-[config_environments]: ./environments_classic.html
-[config_reference]: ./configuration.html
-[environments]: ./environments.html
-[future]: ./experiments_future.html
-[multi_master]: /guides/scaling_multiple_masters.html
-[enc]: /guides/external_nodes.html
+[trusted_and_facts]: ./lang_facts_and_builtin_vars.markdown
+[config_environments]: ./environments_classic.markdown
+[config_reference]: ./configuration.markdown
+[environments]: ./environments.markdown
+[future]: ./experiments_future.markdown
+[multi_master]: /guides/scaling_multiple_masters.markdown
+[enc]: /guides/external_nodes.markdown
 [meta_noop]: ./metaparameter.html#noop
 [meta_schedule]: ./metaparameter.html#schedule
-[lang_tags]: ./lang_tags.html
-[modulepath_dir]: ./dirs_modulepath.html
-[manifest_dir]: ./dirs_manifest.html
-[report_reference]: ./report.html
+[lang_tags]: ./lang_tags.markdown
+[modulepath_dir]: ./dirs_modulepath.markdown
+[manifest_dir]: ./dirs_manifest.markdown
+[report_reference]: ./report.markdown
 [write_reports]: /guides/reporting.html#writing-custom-reports
 [passenger_headers]: /guides/passenger.html#notes-on-ssl-verification
-[puppetdb_install]: /puppetdb/latest/connect_puppet_master.html
+[puppetdb_install]: /puppetdb/latest/connect_puppet_master.markdown
 [static_compiler]: ./indirection.html#staticcompiler-terminus
-[ssl_autosign]: ./ssl_autosign.html
+[ssl_autosign]: ./ssl_autosign.markdown
 [structured_facts]: ./lang_facts_and_builtin_vars.html#data-types
 
 [trusted_node_data]: ./configuration.html#trustednodedata
@@ -74,7 +73,7 @@ canonical: "/puppet/latest/reference/config_important_settings.html"
 [ca_ttl]: ./configuration.html#cattl
 [autosign]: ./configuration.html#autosign
 [environmentpath]: ./configuration.html#environmentpath
-[environment.conf]: ./config_file_environment.html
+[environment.conf]: ./config_file_environment.markdown
 [alwayscachefeatures]: ./configuration.html#alwayscachefeatures
 [environment_timeout]: ./configuration.html#environmenttimeout
 [configuring_timeout]: ./environments_configuring.html#environmenttimeout

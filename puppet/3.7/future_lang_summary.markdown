@@ -1,34 +1,33 @@
 ---
 layout: default
 title: "Future Parser: Basics"
-canonical: "/puppet/latest/reference/lang_summary.html"
 ---
 
-[site_manifest]: ./dirs_manifest.html
+[site_manifest]: ./dirs_manifest.markdown
 [autoload]: ./future_lang_namespaces.html#autoloader-behavior
-[config]: /guides/configuring.html
+[config]: /guides/configuring.markdown
 [usecacheonfailure]: ./configuration.html#usecacheonfailure
 [fileserve]: ./modules_fundamentals.html#files
-[classes]: ./future_lang_classes.html
-[enc]: /guides/external_nodes.html
-[resources]: ./future_lang_resources.html
+[classes]: ./future_lang_classes.markdown
+[enc]: /guides/external_nodes.markdown
+[resources]: ./future_lang_resources.markdown
 [chaining]: ./future_lang_relationships.html#chaining-arrows
-[modules]: ./modules_fundamentals.html
+[modules]: ./modules_fundamentals.markdown
 [package]: ./type.html#package
 [file]: ./type.html#file
 [service]: ./type.html#service
 [case]: ./future_lang_conditional.html#case-statements
 [fact]: ./future_lang_variables.html#facts-and-built-in-variables
-[variables]: ./future_lang_variables.html
-[relationships]: ./future_lang_relationships.html
+[variables]: ./future_lang_variables.markdown
+[relationships]: ./future_lang_relationships.markdown
 [ordering]: ./future_lang_relationships.html#ordering-and-notification
 [notification]: ./future_lang_relationships.html#ordering-and-notification
 [declared]: /references/glossary.html#declare
 [string_newline]: ./future_lang_data_string.html#line-breaks
-[node]: ./future_lang_node_definitions.html
+[node]: ./future_lang_node_definitions.markdown
 [ordering]: ./configuration.html#ordering
 [hiera]: /hiera/latest
-[compilation]: ./subsystem_catalog_compilation.html
+[compilation]: ./subsystem_catalog_compilation.markdown
 
 Puppet uses its own configuration language, which was designed to be accessible to sysadmins. The Puppet language does not require much formal programming experience and its syntax was inspired by the Nagios configuration file format.
 

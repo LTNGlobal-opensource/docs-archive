@@ -1,24 +1,23 @@
 ---
 layout: default
 title: "Future Parser: Scope"
-canonical: "/puppet/latest/reference/lang_scope.html"
 ---
 
-[resources]: ./future_lang_resources.html
-[refs]: ./future_lang_data_resource_reference.html
-[class]: ./future_lang_classes.html
-[definedtype]: ./future_lang_defined_types.html
-[node]: ./future_lang_node_definitions.html
-[resourcedefaults]: ./future_lang_defaults.html
+[resources]: ./future_lang_resources.markdown
+[refs]: ./future_lang_data_resource_reference.markdown
+[class]: ./future_lang_classes.markdown
+[definedtype]: ./future_lang_defined_types.markdown
+[node]: ./future_lang_node_definitions.markdown
+[resourcedefaults]: ./future_lang_defaults.markdown
 [declare_class]: ./future_lang_classes.html#declaring-classes
 [lookup]: #scope-lookup-rules
-[enc]: /guides/external_nodes.html
+[enc]: /guides/external_nodes.markdown
 [inheritance]: ./future_lang_classes.html#inheritance
-[scopedoc]: /puppet/2.7/reference/scope_and_puppet.html
-[variables]: ./future_lang_variables.html
-[namespace]: ./future_lang_namespaces.html
+[scopedoc]: /puppet/2.7/reference/scope_and_puppet.markdown
+[variables]: ./future_lang_variables.markdown
+[namespace]: ./future_lang_namespaces.markdown
 [diagram]: ./images/scope-euler-diagram.png
-[lambda]: ./future_lang_lambdas.html
+[lambda]: ./future_lang_lambdas.markdown
 
 Scope Basics
 -----

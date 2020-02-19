@@ -3,19 +3,19 @@ layout: default
 title: "Directories: The Modulepath (Default Config)"
 ---
 
-[module_fundamentals]: ./modules_fundamentals.html
-[config file environments]: ./environments_classic.html
-[directory environments]: ./environments.html
+[module_fundamentals]: ./modules_fundamentals.markdown
+[config file environments]: ./environments_classic.markdown
+[directory environments]: ./environments.markdown
 [env_modules]: ./environments.html#setting-up-environments-on-a-puppet-master
-[confdir]: ./dirs_confdir.html
+[confdir]: ./dirs_confdir.markdown
 [basemodulepath_setting]: ./configuration.html#basemodulepath
 [modulepath_setting]: ./configuration.html#modulepath
 [environment config sections]: ./environments_classic.html#environment-config-sections
 [dynamic environments]: ./environments_classic.html#dynamic-environments
-[config_print]: ./config_print.html
+[config_print]: ./config_print.markdown
 [enable_dir_envs]: ./environments.html#enabling-directory-environments
-[puppet.conf]: ./config_file_main.html
-[environment.conf]: ./config_file_environment.html
+[puppet.conf]: ./config_file_main.markdown
+[environment.conf]: ./config_file_environment.markdown
 
 The Puppet master service and the Puppet apply command both load most of their content from modules. (See the page on [module structure and behavior][module_fundamentals] for more details.)
 

@@ -1,10 +1,9 @@
 ---
 layout: default
 title: "SSL Configuration: External CA Support"
-canonical: "/puppet/latest/reference/config_ssl_external_ca.html"
 ---
 
-[conf]: ./config_file_main.html
+[conf]: ./config_file_main.markdown
 [verify_header]: ./configuration.html#sslclientverifyheader
 [client_header]: ./configuration.html#sslclientheader
 [ca_auth]: ./configuration.html#sslclientcaauth

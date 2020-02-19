@@ -1,28 +1,27 @@
 ---
 layout: default
 title: "Language: Data Types"
-canonical: "/puppet/latest/reference/lang_datatypes.html"
 ---
 
 
 [local]: ./lang_scope.html#local-scopes
-[conditional]: ./lang_conditional.html
-[node]: ./lang_node_definitions.html
+[conditional]: ./lang_conditional.markdown
+[node]: ./lang_node_definitions.markdown
 [attribute]: ./lang_resources.html#syntax
 [regsubst]: ./function.html#regsubst
-[function]: ./lang_functions.html
-[variables]: ./lang_variables.html
-[expression]: ./lang_expressions.html
+[function]: ./lang_functions.markdown
+[variables]: ./lang_variables.markdown
+[expression]: ./lang_expressions.markdown
 [if]: ./lang_conditional.html#if-statements
 [comparison]: ./lang_expressions.html#comparison-operators
 [stdlib]: http://forge.puppetlabs.com/puppetlabs/stdlib
-[facts]: ./lang_facts_and_builtin_vars.html
+[facts]: ./lang_facts_and_builtin_vars.markdown
 [fact_datatypes]: ./lang_facts_and_builtin_vars.html#data-types
 [reserved]: ./lang_reserved.html#reserved-words
 [attribute_override]: ./lang_resources.html#adding-or-modifying-attributes
-[resourcedefault]: ./lang_defaults.html
-[node_def]: ./lang_node_definitions.html
-[relationship]: ./lang_relationships.html
+[resourcedefault]: ./lang_defaults.markdown
+[node_def]: ./lang_node_definitions.markdown
+[relationship]: ./lang_relationships.markdown
 [chaining]: ./lang_relationships.html#chaining-arrows
 [mutable]: http://projects.puppetlabs.com/issues/16116
 

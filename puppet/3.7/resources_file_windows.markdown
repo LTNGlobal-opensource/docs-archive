@@ -4,7 +4,7 @@ title: "Resource Tips and Examples: File on Windows"
 ---
 
 [file]: ./type.html#file
-[relationships]: /puppet/latest/reference/lang_relationships.html
+[relationships]: /puppet/latest/reference/lang_relationships.markdown
 [acl_module]: https://forge.puppetlabs.com/puppetlabs/acl
 [mode]: ./type.html#file-attribute-mode
 
@@ -27,7 +27,7 @@ The `file` resource type was originally developed for \*nix systems, and has a f
 
 The issue of backslashes and forward-slashes in file paths can get complicated. It's covered in full detail in [Handling File Paths on Windows.][win_paths]
 
-[win_paths]: ./lang_windows_file_paths.html
+[win_paths]: ./lang_windows_file_paths.markdown
 
 ## Watch for Filesystem Redirection When Running 32-Bit Puppet on 64-Bit Windows
 

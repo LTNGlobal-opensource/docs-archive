@@ -1,27 +1,26 @@
 ---
 layout: default
 title: "Future Parser: Tags"
-canonical: "/puppet/latest/reference/lang_tags.html"
 ---
 
 
-[virtual]: ./future_lang_virtual.html
-[exported]: ./future_lang_exported.html
-[namespace]: ./future_lang_namespaces.html
-[resources]: ./future_lang_resources.html
-[classes]: ./future_lang_classes.html
-[defined]: ./future_lang_defined_types.html
-[collectors]: ./future_lang_collectors.html
+[virtual]: ./future_lang_virtual.markdown
+[exported]: ./future_lang_exported.markdown
+[namespace]: ./future_lang_namespaces.markdown
+[resources]: ./future_lang_resources.markdown
+[classes]: ./future_lang_classes.markdown
+[defined]: ./future_lang_defined_types.markdown
+[collectors]: ./future_lang_collectors.markdown
 [reports]: /guides/reporting.html#make-masters-process-reports
-[report_format]: ./format_report.html
+[report_format]: ./format_report.markdown
 [tagmail]: ./report.html#tagmail
 [tagmail_conf]: /guides/configuring.html#tagmailconf
 [tagmeta]: ./metaparameter.html#tag
 [tagfunction]: ./function.html#tag
 [tags_setting]: ./configuration.html#tags
 [tagnames]: ./future_lang_reserved.html#tags
-[relationships]: ./future_lang_relationships.html
-[containment]: ./future_lang_containment.html
+[relationships]: ./future_lang_relationships.markdown
+[containment]: ./future_lang_containment.markdown
 [collector_search]: ./future_lang_collectors.html#search-expressions
 [catalog]: ./future_lang_summary.html#compilation-and-catalogs
 

@@ -1,37 +1,36 @@
 ---
 layout: default
 title: "Subsystems: Catalog Compilation"
-canonical: "/puppet/latest/reference/subsystem_catalog_compilation.html"
 ---
 
-[environment]: ./environments.html
+[environment]: ./environments.markdown
 [certname]: ./config_important_settings.html#basics
-[relationships]: ./lang_relationships.html
-[cert_extensions]: ./ssl_attributes_extensions.html
-[facts]: ./lang_facts_and_builtin_vars.html
-[enc]: /guides/external_nodes.html
-[exported resources]: ./lang_exported.html
+[relationships]: ./lang_relationships.markdown
+[cert_extensions]: ./ssl_attributes_extensions.markdown
+[facts]: ./lang_facts_and_builtin_vars.markdown
+[enc]: /guides/external_nodes.markdown
+[exported resources]: ./lang_exported.markdown
 [puppetdb]: /puppetdb/latest
-[functions]: ./lang_functions.html
-[main manifest]: ./dirs_manifest.html
-[modules]: ./modules_fundamentals.html
+[functions]: ./lang_functions.markdown
+[main manifest]: ./dirs_manifest.markdown
+[modules]: ./modules_fundamentals.markdown
 [node terminus]: ./configuration.html#nodeterminus
 [plain_node]: ./indirection.html#plain-terminus
 [exec_node]: ./indirection.html#exec-terminus
 [ldap_node]: ./indirection.html#ldap-terminus
-[ldap_guide]: /guides/ldap_nodes.html
+[ldap_guide]: /guides/ldap_nodes.markdown
 [trusted_on]: ./config_important_settings.html#getting-new-features-early
-[facts_builtin]: ./lang_facts_and_builtin_vars.html
-[node definitions]: ./lang_node_definitions.html
+[facts_builtin]: ./lang_facts_and_builtin_vars.markdown
+[node definitions]: ./lang_node_definitions.markdown
 [agent_provided]: #agent-provided-data
-[resources]: ./lang_resources.html
+[resources]: ./lang_resources.markdown
 [class declarations]: ./lang_classes.html#declaring-classes
 [node scope]: ./lang_scope.html#node-scope
-[variables]: ./lang_variables.html
+[variables]: ./lang_variables.markdown
 [class definitions]: ./lang_classes.html#defining-classes
-[classes]: ./lang_classes.html
+[classes]: ./lang_classes.markdown
 [manifest naming conventions]: ./modules_fundamentals.html#manifests
-[modulepath]: ./dirs_modulepath.html
+[modulepath]: ./dirs_modulepath.markdown
 
 Background Info
 -----

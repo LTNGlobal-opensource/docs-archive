@@ -1,14 +1,13 @@
 ---
 layout: default
 title: "Language: Run Stages"
-canonical: "/puppet/latest/reference/lang_run_stages.html"
 ---
 
 [metaparameter]: ./lang_resources.html#metaparameters
-[ordering]: ./lang_relationships.html
-[class]: ./lang_classes.html
+[ordering]: ./lang_relationships.markdown
+[class]: ./lang_classes.markdown
 [resourcelike]: ./lang_classes.html#using-resource-like-declarations
-[containment]: ./lang_containment.html
+[containment]: ./lang_containment.markdown
 
 Run stages are an additional way to order resources. They allow groups of classes to run before or after nearly everything else, without having to explicitly create relationships with every other class. Run stages were added in Puppet 2.6.0.
 

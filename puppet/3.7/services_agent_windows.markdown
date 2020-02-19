@@ -1,22 +1,21 @@
 ---
 layout: default
 title: "Puppet's Services: Puppet Agent on Windows Systems"
-canonical: "/puppet/latest/reference/services_master_windows.html"
 ---
 
-[catalogs]: ./subsystem_catalog_compilation.html
-[unix_agent]: ./services_agent_unix.html
-[type reference]: ./type.html
+[catalogs]: ./subsystem_catalog_compilation.markdown
+[unix_agent]: ./services_agent_unix.markdown
+[type reference]: ./type.markdown
 [mcollective]: /mcollective
-[puppet.conf]: ./config_file_main.html
+[puppet.conf]: ./config_file_main.markdown
 [runinterval]: ./configuration.html#runinterval
 [short_settings]: ./config_important_settings.html#settings-for-agents-all-nodes
-[page on triggering puppet runs]: /pe/latest/orchestration_puppet.html
+[page on triggering puppet runs]: /pe/latest/orchestration_puppet.markdown
 [msiproperties]: /puppet/3.8/reference/install_windows.html#automated-installation
 [uac]: ./images/uac.png
 [rightclick]: ./images/run_as_admin.png
-[report]: /guides/reporting.html
-[running]: ./services_commands_windows.html
+[report]: /guides/reporting.markdown
+[running]: ./services_commands_windows.markdown
 
 Puppet agent is the application that manages configurations on nodes. It requires a Puppet master server to fetch configuration [catalogs][] from. (For more info, see [Overview of Puppet's Architecture](./architecture.html).)
 

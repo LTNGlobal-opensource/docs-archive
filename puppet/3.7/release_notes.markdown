@@ -2,23 +2,22 @@
 layout: default
 title: "Puppet 3.7 Release Notes"
 description: "Puppet release notes for version 3.7"
-canonical: "/puppet/latest/reference/release_notes.html"
 ---
 
-[upgrade]: /puppet/3.8/reference/upgrading.html
-[puppet_3]: /puppet/3/reference/release_notes.html
-[puppet_35]: /puppet/3.5/reference/release_notes.html
-[puppet_36]: /puppet/3.6/reference/release_notes.html
+[upgrade]: /puppet/3.8/reference/upgrading.markdown
+[puppet_3]: /puppet/3/reference/release_notes.markdown
+[puppet_35]: /puppet/3.5/reference/release_notes.markdown
+[puppet_36]: /puppet/3.6/reference/release_notes.markdown
 
-[puppet.conf]: ./config_file_main.html
-[main manifest]: ./dirs_manifest.html
-[env_api]: ./yard/file.http_environments.html
+[puppet.conf]: ./config_file_main.markdown
+[main manifest]: ./dirs_manifest.markdown
+[env_api]: ./yard/file.http_environments.markdown
 [file_system_redirect]: ./lang_windows_file_paths.html#file-system-redirection-when-running-32-bit-puppet-on-64-bit-windows
-[environment.conf]: ./config_file_environment.html
+[environment.conf]: ./config_file_environment.markdown
 [default_manifest]: ./configuration.html#defaultmanifest
 [disable_per_environment_manifest]: ./configuration.html#disableperenvironmentmanifest
-[directory environments]: ./environments.html
-[future]: ./experiments_future.html
+[directory environments]: ./environments.markdown
+[future]: ./experiments_future.markdown
 
 This page tells the history of the Puppet 3.7 series. (Elsewhere: release notes for [Puppet 3.0 -- 3.4][puppet_3], [Puppet 3.5][puppet_35], and [Puppet 3.6][puppet_36].)
 
@@ -300,10 +299,10 @@ Puppet 3.7.2
 
 Released October 22, 2014.
 
-[rack_master]: ./services_master_rack.html
+[rack_master]: ./services_master_rack.markdown
 [resource_like]: ./lang_classes.html#include-like-vs-resource-like
 [include_like]: ./lang_classes.html#include-like-vs-resource-like
-[enc]: /guides/external_nodes.html
+[enc]: /guides/external_nodes.markdown
 [env_setting]: ./configuration.html#environment
 
 Puppet 3.7.2 is a bug fix release in the Puppet 3.7 series. It plugs a significant memory leak in the Puppet master application, improves Puppet's resistance to POODLE attacks (but you still need to check your Apache configs), and fixes a variety of other bugs.

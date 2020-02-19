@@ -1,24 +1,23 @@
 ---
 title: "Language: Expressions"
 layout: default
-canonical: "/puppet/latest/reference/lang_expressions.html"
 ---
 
-[conditional]: ./lang_conditional.html
-[datatypes]: ./lang_datatypes.html
+[conditional]: ./lang_conditional.markdown
+[datatypes]: ./lang_datatypes.markdown
 [boolean]: ./lang_datatypes.html#booleans
 [numbers]: ./lang_datatypes.html#numbers
 [strings]: ./lang_datatypes.html#strings
 [arrays]: ./lang_datatypes.html#arrays
 [hashes]: ./lang_datatypes.html#hashes
 [regex]: ./lang_datatypes.html#regular-expressions
-[regex_match]: http://www.ruby-doc.org/core/Regexp.html
+[regex_match]: http://www.ruby-doc.org/core/Regexp.markdown
 [if]: ./lang_conditional.html#if-statements
 [case]: ./lang_conditional.html#case-statements
 [selector]: ./lang_conditional.html#selectors
-[function]: ./lang_functions.html
+[function]: ./lang_functions.markdown
 [bool_convert]: ./lang_datatypes.html#automatic-conversion-to-boolean
-[variables]: ./lang_variables.html
+[variables]: ./lang_variables.markdown
 
 
 **Expressions** resolve to values and can be used in **most** of the places where values of the [standard data types][datatypes] are required.  Expressions can be compounded with other expressions and the entire combined expression will resolve to a single value.

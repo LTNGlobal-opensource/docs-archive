@@ -1,15 +1,14 @@
 ---
 layout: default
 title: "Language: Virtual Resources"
-canonical: "/puppet/latest/reference/lang_virtual.html"
 ---
 
-[resources]: ./lang_resources.html
+[resources]: ./lang_resources.markdown
 [references]: ./lang_datatypes.html#resource-references
-[classes]: ./lang_classes.html
+[classes]: ./lang_classes.markdown
 [realize_function]: ./function.html#realize
 [include]: ./lang_classes.html#using-include
-[collectors]: ./lang_collectors.html
+[collectors]: ./lang_collectors.markdown
 [search_expression]: ./lang_collectors.html#search-expressions
 [override]: ./lang_resources.html#amending-attributes-with-a-collector
 [chaining]: ./lang_relationships.html#chaining-arrows

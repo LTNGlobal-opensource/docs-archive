@@ -4,35 +4,35 @@ title: "Puppet's Commands"
 ---
 
 [facter_cli]: /facter/latest
-[hiera_cli]: /hiera/latest/command_line.html
-[arch]: ./architecture.html
-[agent_unix]: ./services_agent_unix.html
-[agent_windows]: ./services_agent_windows.html
-[agent_man]: ./man/agent.html
-[master_rack]: ./services_master_rack.html
-[master_webrick]: ./services_master_webrick.html
-[master_man]: ./man/master.html
-[apply]: ./services_apply.html
-[apply_man]: ./man/apply.html
-[cert_man]: ./man/cert.html
+[hiera_cli]: /hiera/latest/command_line.markdown
+[arch]: ./architecture.markdown
+[agent_unix]: ./services_agent_unix.markdown
+[agent_windows]: ./services_agent_windows.markdown
+[agent_man]: ./man/agent.markdown
+[master_rack]: ./services_master_rack.markdown
+[master_webrick]: ./services_master_webrick.markdown
+[master_man]: ./man/master.markdown
+[apply]: ./services_apply.markdown
+[apply_man]: ./man/apply.markdown
+[cert_man]: ./man/cert.markdown
 [puppet forge]: https://forge.puppetlabs.com
-[module fundamentals]: ./modules_fundamentals.html
-[installing modules]: ./modules_installing.html
-[publishing modules on the puppet forge]: ./modules_publishing.html
-[module_man]: ./man/module.html
-[resource_man]: ./man/resource.html
-[about puppet's settings]: ./config_about_settings.html
-[checking values of settings]: ./config_print.html
-[editing settings on the command line]: ./config_set.html
-[short list of important settings]: ./config_important_settings.html
-[config_man]: ./man/config.html
-[parser_man]: ./man/parser.html
-[help_man]: ./man/help.html
-[man_man]: ./man/man.html
+[module fundamentals]: ./modules_fundamentals.markdown
+[installing modules]: ./modules_installing.markdown
+[publishing modules on the puppet forge]: ./modules_publishing.markdown
+[module_man]: ./man/module.markdown
+[resource_man]: ./man/resource.markdown
+[about puppet's settings]: ./config_about_settings.markdown
+[checking values of settings]: ./config_print.markdown
+[editing settings on the command line]: ./config_set.markdown
+[short list of important settings]: ./config_important_settings.markdown
+[config_man]: ./man/config.markdown
+[parser_man]: ./man/parser.markdown
+[help_man]: ./man/help.markdown
+[man_man]: ./man/man.markdown
 [all_manpages]: ./man/
-[about_server]: /puppetserver/1.0/services_master_puppetserver.html
-[server_vs_passenger]: /puppetserver/1.0/puppetserver_vs_passenger.html
-[subcommands]: /puppetserver/1.0/subcommands.html
+[about_server]: /puppetserver/1.0/services_master_puppetserver.markdown
+[server_vs_passenger]: /puppetserver/1.0/puppetserver_vs_passenger.markdown
+[subcommands]: /puppetserver/1.0/subcommands.markdown
 
 
 Puppet's command line interface consists of a single `puppet` command with many subcommands.

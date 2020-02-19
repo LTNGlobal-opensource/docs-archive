@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Config Files: auth.conf"
-canonical: "/puppet/latest/reference/config_file_auth.html"
 ---
 
 [rest_authconfig]: ./configuration.html#restauthconfig
@@ -29,7 +28,7 @@ The `auth.conf` file is located at `$confdir/auth.conf` by default. Its location
 
 The location of the `confdir` varies; it depends on the OS, Puppet distribution, and user account. [See the confdir documentation for details.][confdir]
 
-[confdir]: ./dirs_confdir.html
+[confdir]: ./dirs_confdir.markdown
 
 ## Example
 

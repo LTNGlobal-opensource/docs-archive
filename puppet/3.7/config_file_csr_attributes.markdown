@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Config Files: csr_attributes.yaml"
-canonical: "/puppet/latest/reference/config_file_csr_attributes.html"
 ---
 
 [csr_attributes]: ./configuration.html#csrattributes
@@ -21,7 +20,7 @@ The `csr_attributes.yaml` file is located at `$confdir/csr_attributes.yaml` by d
 
 The location of the `confdir` varies; it depends on the OS, Puppet distribution, and user account. [See the confdir documentation for details.][confdir]
 
-[confdir]: ./dirs_confdir.html
+[confdir]: ./dirs_confdir.markdown
 
 ## Example
 

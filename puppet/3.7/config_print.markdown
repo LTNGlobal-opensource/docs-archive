@@ -1,18 +1,17 @@
 ---
 layout: default
 title: "Configuration: Checking Values of Settings"
-canonical: "/puppet/latest/reference/config_print.html"
 ---
 
 
 [config_sections]: ./config_file_main.html#config-sections
-[setting_sources]: ./config_about_settings.html
+[setting_sources]: ./config_about_settings.markdown
 [confdir_sys]: ./dirs_confdir.html#system-and-user-confdirs
-[environment]: ./environments.html
-[confdir]: ./dirs_confdir.html
-[vardir]: ./dirs_vardir.html
-[modulepath]: ./dirs_modulepath.html
-[facts_and_trusted]: ./lang_facts_and_builtin_vars.html
+[environment]: ./environments.markdown
+[confdir]: ./dirs_confdir.markdown
+[vardir]: ./dirs_vardir.markdown
+[modulepath]: ./dirs_modulepath.markdown
+[facts_and_trusted]: ./lang_facts_and_builtin_vars.markdown
 
 Puppet settings are highly dynamic, and their values can come from [several different places][setting_sources].
 

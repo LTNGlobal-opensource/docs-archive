@@ -1,23 +1,22 @@
 ---
 layout: default
 title: "Module Fundamentals"
-canonical: "/puppet/latest/reference/modules_fundamentals.html"
 ---
 
-[modulepath]: ./dirs_modulepath.html
-[installing]: ./modules_installing.html
-[publishing]: ./modules_publishing.html
-[documentation]: ./modules_documentation.html
+[modulepath]: ./dirs_modulepath.markdown
+[installing]: ./modules_installing.markdown
+[publishing]: ./modules_publishing.markdown
+[documentation]: ./modules_documentation.markdown
 
-[plugins]: /guides/plugins_in_modules.html
+[plugins]: /guides/plugins_in_modules.markdown
 
 [external facts]: /facter/latest/custom_facts.html#external-facts
-[custom facts]: /facter/latest/custom_facts.html
-[classes]: ./lang_classes.html
-[defined_types]: ./lang_defined_types.html
-[enc]: /guides/external_nodes.html
-[environment]: ./environments.html
-[templates]: /guides/templating.html
+[custom facts]: /facter/latest/custom_facts.markdown
+[classes]: ./lang_classes.markdown
+[defined_types]: ./lang_defined_types.markdown
+[enc]: /guides/external_nodes.markdown
+[environment]: ./environments.markdown
+[templates]: /guides/templating.markdown
 [forge]: https://forge.puppetlabs.com
 [file_function]: ./function.html#file
 

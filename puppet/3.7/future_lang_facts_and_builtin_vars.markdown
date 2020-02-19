@@ -1,27 +1,26 @@
 ---
 layout: default
 title: "Future Parser: Facts and Built-in Variables"
-canonical: "/puppet/latest/reference/lang_facts_and_builtin_vars.html"
 ---
 
-[definedtype]: ./future_lang_defined_types.html
-[environment]: ./environments.html
+[definedtype]: ./future_lang_defined_types.markdown
+[environment]: ./environments.markdown
 [topscope]: ./future_lang_scope.html#top-scope
-[core_facts]: /facter/latest/core_facts.html
+[core_facts]: /facter/latest/core_facts.markdown
 [facter]: /facter/latest
-[customfacts]: /facter/latest/custom_facts.html
+[customfacts]: /facter/latest/custom_facts.markdown
 [external facts]: /facter/latest/custom_facts.html#external-facts
 [catalog]: ./future_lang_summary.html#compilation-and-catalogs
 [noop]: ./configuration.html#noop
 [certname]: ./configuration.html#certname
-[puppetdb_facts]: /puppetdb/latest/api/index.html
+[puppetdb_facts]: /puppetdb/latest/api/index.markdown
 [localscope]: ./future_lang_scope.html#local-scopes
 [trusted_on]: ./config_important_settings.html#getting-new-features-early
-[scope]: ./future_lang_scope.html
-[extensions]: ./ssl_attributes_extensions.html
+[scope]: ./future_lang_scope.markdown
+[extensions]: ./ssl_attributes_extensions.markdown
 [structured_facts_on]: ./config_important_settings.html#getting-new-features-early
-[strings]: ./future_lang_data_string.html
-[datatypes]: ./future_lang_data.html
+[strings]: ./future_lang_data_string.markdown
+[datatypes]: ./future_lang_data.markdown
 [qualified_var_names]: ./future_lang_variables.html#accessing-out-of-scope-variables
 
 

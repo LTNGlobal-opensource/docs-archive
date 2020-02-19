@@ -1,19 +1,18 @@
 ---
 layout: default
 title: "Language: Variables"
-canonical: "/puppet/latest/reference/lang_variables.html"
 ---
 
 
-[expressions]: ./lang_expressions.html
+[expressions]: ./lang_expressions.markdown
 [acceptable]: ./lang_reserved.html#variables
 [reserved]: ./lang_reserved.html#reserved-variable-names
-[datatype]: ./lang_datatypes.html
+[datatype]: ./lang_datatypes.markdown
 [double_quote]: ./lang_datatypes.html#double-quoted-strings
-[functions]: ./lang_functions.html
-[resource]: ./lang_resources.html
+[functions]: ./lang_functions.markdown
+[resource]: ./lang_resources.markdown
 [resource_attribute]: ./lang_resources.html#syntax
-[scope]: ./lang_scope.html
+[scope]: ./lang_scope.markdown
 
 
  <a id="facts"><a id="trusted-node-data"><a id="agent-set-variables"><a id="master-set-variables"><a id="parser-set-variables">

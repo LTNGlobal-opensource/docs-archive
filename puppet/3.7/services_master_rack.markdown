@@ -1,20 +1,19 @@
 ---
 layout: default
 title: "Puppet's Services: The Rack Puppet Master"
-canonical: "/puppet/latest/reference/services_master_rack.html"
 ---
 
 
 [rack]: http://rack.github.io/
-[passenger_guide]: /guides/passenger.html
+[passenger_guide]: /guides/passenger.markdown
 [passenger]: http://www.modrails.com/
-[external_ca]: ./config_ssl_external_ca.html
-[client authentication]: /background/ssl/tls_ssl.html
+[external_ca]: ./config_ssl_external_ca.markdown
+[client authentication]: /background/ssl/tls_ssl.markdown
 [subject dn]: /background/ssl/cert_anatomy.html#the-subject-dn-cn-certname-etc
 [pem format]: /background/ssl/cert_anatomy.html#pem-file
 [trusted]: ./lang_facts_and_builtin_vars.html#trusted-facts
-[webrick]: ./services_master_webrick.html
-[puppet server]: /puppetserver/latest/services_master_puppetserver.html
+[webrick]: ./services_master_webrick.markdown
+[puppet server]: /puppetserver/latest/services_master_puppetserver.markdown
 
 Puppet master is the application that compiles configurations for any number of Puppet agent nodes, using Puppet code and various other data sources. (For more info, see [Overview of Puppet's Architecture](./architecture.html).)
 
@@ -66,8 +65,8 @@ All of the Puppet master's files and directories must be readable and writable b
 
 ### Required Directories
 
-[confdir]: ./dirs_confdir.html
-[vardir]: ./dirs_vardir.html
+[confdir]: ./dirs_confdir.markdown
+[vardir]: ./dirs_vardir.markdown
 
 Before a Rack Puppet master can fully start up, it needs access to a [confdir][] and a [vardir][] that its user has permission to write to. The locations of the confdir and vardir it will use are set in the `config.ru` file (see below).
 
@@ -178,8 +177,8 @@ As [described elsewhere,][about_settings] the Puppet master application reads mo
 
 To change the Puppet master's settings, you should use [puppet.conf][]. The only two options you may want to set in `config.ru` are `--verbose` or `--debug`, to change the amount of detail in the logs.
 
-[about_settings]: ./config_about_settings.html
-[puppet.conf]: ./config_file_main.html
+[about_settings]: ./config_about_settings.markdown
+[puppet.conf]: ./config_file_main.markdown
 
 > ## Aside: How a Rack Puppet Master Works
 >

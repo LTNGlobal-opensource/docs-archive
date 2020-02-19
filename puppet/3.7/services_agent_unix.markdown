@@ -1,14 +1,13 @@
 ---
 layout: default
 title: "Puppet's Services: Puppet Agent on *nix Systems"
-canonical: "/puppet/latest/reference/services_master_unix.html"
 ---
 
-[catalogs]: ./subsystem_catalog_compilation.html
-[win_agent]: ./services_agent_windows.html
-[type reference]: ./type.html
+[catalogs]: ./subsystem_catalog_compilation.markdown
+[win_agent]: ./services_agent_windows.markdown
+[type reference]: ./type.markdown
 [mcollective]: /mcollective
-[puppet.conf]: ./config_file_main.html
+[puppet.conf]: ./config_file_main.markdown
 [runinterval]: ./configuration.html#runinterval
 [onetime]: ./configuration.html#onetime
 [daemonize]: ./configuration.html#daemonize
@@ -17,10 +16,10 @@ canonical: "/puppet/latest/reference/services_master_unix.html"
 [listen]: ./configuration.html#listen
 [puppetport]: ./configuration.html#puppetport
 [pidfile]: ./configuration.html#pidfile
-[auth.conf]: ./config_file_auth.html
+[auth.conf]: ./config_file_auth.markdown
 [short_settings]: ./config_important_settings.html#settings-for-agents-all-nodes
-[page on triggering puppet runs]: /pe/latest/orchestration_puppet.html
-[report]: /guides/reporting.html
+[page on triggering puppet runs]: /pe/latest/orchestration_puppet.markdown
+[report]: /guides/reporting.markdown
 
 Puppet agent is the application that manages configurations on nodes. It requires a Puppet master server to fetch configuration [catalogs][] from. (For more info, see [Overview of Puppet's Architecture](./architecture.html).)
 

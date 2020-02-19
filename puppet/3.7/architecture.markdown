@@ -3,19 +3,19 @@ layout: default
 title: "Overview of Puppet's Architecture"
 ---
 
-[agent_unix]: ./services_agent_unix.html
-[agent_win]: ./services_agent_windows.html
-[https_walkthrough]: ./subsystem_agent_master_comm.html
-[rack]: ./services_master_rack.html
-[webrick]: ./services_master_webrick.html
-[master_http]: ./yard/file.http_api_index.html
-[auth.conf]: ./conf_file_auth.html
-[catalog_compilation]: ./subsystem_catalog_compilation.html
-[report handlers]: ./report.html
-[lang_basics]: ./lang_summary.html
-[apply]: ./services_apply.html
+[agent_unix]: ./services_agent_unix.markdown
+[agent_win]: ./services_agent_windows.markdown
+[https_walkthrough]: ./subsystem_agent_master_comm.markdown
+[rack]: ./services_master_rack.markdown
+[webrick]: ./services_master_webrick.markdown
+[master_http]: ./yard/file.http_api_index.markdown
+[auth.conf]: ./conf_file_auth.markdown
+[catalog_compilation]: ./subsystem_catalog_compilation.markdown
+[report handlers]: ./report.markdown
+[lang_basics]: ./lang_summary.markdown
+[apply]: ./services_apply.markdown
 [puppetdb]: /puppetdb/latest
-[resource]: ./lang_resources.html
+[resource]: ./lang_resources.markdown
 
 
 Puppet usually uses an agent/master (client/server) architecture for configuring systems, using the **Puppet agent** and **Puppet master** applications. It can also run in a self-contained architecture with the **Puppet apply** application.

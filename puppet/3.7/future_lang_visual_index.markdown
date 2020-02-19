@@ -1,52 +1,51 @@
 ---
 layout: default
 title: "Future Parser: Visual Index"
-canonical: "/puppet/latest/reference/lang_visual_index.html"
 ---
 
 
-[resource]: ./future_lang_resources.html
+[resource]: ./future_lang_resources.markdown
 [type]: ./future_lang_resources.html#resource-types
 [title]: ./future_lang_resources.html#title
 [attribute]: ./future_lang_resources.html#attributes
-[string]: ./future_lang_data_string.html
-[function]: ./future_lang_functions.html
+[string]: ./future_lang_data_string.markdown
+[function]: ./future_lang_functions.markdown
 [rvalue]: ./future_lang_functions.html#behavior
-[template_func]: /guides/templating.html
-[module]: modules_fundamentals.html
+[template_func]: /guides/templating.markdown
+[module]: modules_fundamentals.markdown
 [argument]: ./future_lang_functions.html#arguments
 [relationship_meta]: ./future_lang_relationships.html#relationship-metaparameters
-[refs]: ./future_lang_data_resource_reference.html
+[refs]: ./future_lang_data_resource_reference.markdown
 [chaining]: ./future_lang_relationships.html#chaining-arrows
-[variable]: ./future_lang_variables.html
-[array]: ./future_lang_data_array.html
-[hash]: ./future_lang_data_hash.html
+[variable]: ./future_lang_variables.markdown
+[array]: ./future_lang_data_array.markdown
+[hash]: ./future_lang_data_hash.markdown
 [interpolation]: ./future_lang_data_string.html#variable-interpolation
 [class_def]: ./future_lang_classes.html#defining-classes
 [class_decl]: ./future_lang_classes.html#declaring-classes
-[defined_type]: ./future_lang_defined_types.html
-[namespace]: ./future_lang_namespaces.html
+[defined_type]: ./future_lang_defined_types.markdown
+[namespace]: ./future_lang_namespaces.markdown
 [defined_resource]: ./future_lang_defined_types.html#declaring-an-instance
-[node]: ./future_lang_node_definitions.html
+[node]: ./future_lang_node_definitions.markdown
 [regex_node]: ./future_lang_node_definitions.html#regular-expression-names
-[comments]: ./future_lang_comments.html
+[comments]: ./future_lang_comments.markdown
 [if]: ./future_lang_conditional.html#if-statements
-[expressions]: ./future_lang_expressions.html
+[expressions]: ./future_lang_expressions.markdown
 [built_in]: ./future_lang_variables.html#facts-and-built-in-variables
 [facts]: ./future_lang_variables.html#facts
-[regex]: ./future_lang_data_regexp.html
+[regex]: ./future_lang_data_regexp.markdown
 [regex_match]: ./future_lang_expressions.html#regex-match
 [in]: ./future_lang_expressions.html#in
 [case]: ./future_lang_conditional.html#case-statements
 [selector]: ./future_lang_conditional.html#selectors
-[collector]: ./future_lang_collectors.html
+[collector]: ./future_lang_collectors.markdown
 [export_collector]: ./future_lang_collectors.html#exported-resource-collectors
-[export]: ./future_lang_exported.html
-[defaults]: ./future_lang_defaults.html
+[export]: ./future_lang_exported.markdown
+[defaults]: ./future_lang_defaults.markdown
 [override]: ./future_lang_classes.html#overriding-resource-attributes
 [inherits]: ./future_lang_classes.html#inheritance
 [coll_override]: ./future_lang_resources_advanced.html#amending-attributes-with-a-collector
-[virtual]: ./future_lang_virtual.html
+[virtual]: ./future_lang_virtual.markdown
 
 This page can help you find syntax elements when you can't remember their names.
 

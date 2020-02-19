@@ -1,14 +1,13 @@
 ---
 layout: default
 title: "Configuration: How Puppet is Configured"
-canonical: "/puppet/latest/reference/config_about_settings.html"
 ---
 
-[short list]: ./config_important_settings.html
-[conf_ref]: ./configuration.html
-[puppet.conf]: ./config_file_main.html
-[auth.conf]: ./config_file_auth.html
-[puppetdb.conf]: ./config_file_puppetdb.html
+[short list]: ./config_important_settings.markdown
+[conf_ref]: ./configuration.markdown
+[puppet.conf]: ./config_file_main.markdown
+[auth.conf]: ./config_file_auth.markdown
+[puppetdb.conf]: ./config_file_puppetdb.markdown
 
 Puppet's commands and services can be extensively configured, and its settings can be specified in a variety of places.
 

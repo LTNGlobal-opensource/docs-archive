@@ -1,19 +1,18 @@
 ---
 title: "Future Parser: Functions"
 layout: default
-canonical: "/puppet/latest/reference/lang_functions.html"
 ---
 
-[func_ref]: ./function.html
+[func_ref]: ./function.markdown
 [forge]: https://forge.puppetlabs.com
-[custom]: /guides/custom_functions.html
+[custom]: /guides/custom_functions.markdown
 [stdlib]: https://forge.puppetlabs.com/puppetlabs/stdlib
-[resource]: ./future_lang_resources.html
-[custom_facts]: /facter/latest/custom_facts.html
-[datatype]: ./future_lang_data.html
+[resource]: ./future_lang_resources.markdown
+[custom_facts]: /facter/latest/custom_facts.markdown
+[datatype]: ./future_lang_data.markdown
 [catalog]: ./future_lang_summary.html#compilation-and-catalogs
-[lambda]: ./future_lang_lambdas.html
-[expression]: ./future_lang_expressions.html
+[lambda]: ./future_lang_lambdas.markdown
+[expression]: ./future_lang_expressions.markdown
 [template]: ./function.html#template
 [str2bool]: https://forge.puppetlabs.com/puppetlabs/stdlib#str2bool
 [include]: ./function.html#include

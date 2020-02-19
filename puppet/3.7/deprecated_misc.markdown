@@ -4,14 +4,14 @@ title: "Other Deprecated Features"
 ---
 
 
-[main manifest]: ./dirs_manifest.html
-[puppet.conf]: ./config_file_main.html
-[config file environments]: ./environments_classic.html
+[main manifest]: ./dirs_manifest.markdown
+[puppet.conf]: ./config_file_main.markdown
+[config file environments]: ./environments_classic.markdown
 [environment config sections]: ./environments_classic.html#environment-config-sections
 [manifest_setting]: ./configuration.html#manifest
 [modulepath_setting]: ./configuration.html#modulepath
 [config_version]: ./configuration.html#configversion
-[directory environments]: ./environments.html
+[directory environments]: ./environments.markdown
 [puppet-dev]: https://groups.google.com/forum/#!forum/puppet-dev
 
 The following miscellaneous features of Puppet are deprecated, and will be removed in Puppet 4.0.

@@ -1,27 +1,26 @@
 ---
 layout: default
 title: "Language: Tags"
-canonical: "/puppet/latest/reference/lang_tags.html"
 ---
 
 
-[virtual]: ./lang_virtual.html
-[exported]: ./lang_exported.html
-[namespace]: ./lang_namespaces.html
-[resources]: ./lang_resources.html
-[classes]: ./lang_classes.html
-[defined]: ./lang_defined_types.html
-[collectors]: ./lang_collectors.html
+[virtual]: ./lang_virtual.markdown
+[exported]: ./lang_exported.markdown
+[namespace]: ./lang_namespaces.markdown
+[resources]: ./lang_resources.markdown
+[classes]: ./lang_classes.markdown
+[defined]: ./lang_defined_types.markdown
+[collectors]: ./lang_collectors.markdown
 [reports]: /guides/reporting.html#make-masters-process-reports
-[report_format]: ./format_report.html
+[report_format]: ./format_report.markdown
 [tagmail]: ./report.html#tagmail
-[tagmail_conf]: ./config_file_tagmail.html
+[tagmail_conf]: ./config_file_tagmail.markdown
 [tagmeta]: ./metaparameter.html#tag
 [tagfunction]: ./function.html#tag
 [tags_setting]: ./configuration.html#tags
 [tagnames]: ./lang_reserved.html#tags
-[relationships]: ./lang_relationships.html
-[containment]: ./lang_containment.html
+[relationships]: ./lang_relationships.markdown
+[containment]: ./lang_containment.markdown
 [collector_search]: ./lang_collectors.html#search-expressions
 [catalog]: ./lang_summary.html#compilation-and-catalogs
 

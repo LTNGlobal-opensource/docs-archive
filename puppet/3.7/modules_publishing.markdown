@@ -1,13 +1,12 @@
 ---
 layout: default
 title: "Publishing Modules on the Puppet Forge"
-canonical: "/puppet/latest/reference/modules_publishing.html"
 ---
 
 
-[installing]: ./modules_installing.html
-[fundamentals]: ./modules_fundamentals.html
-[plugins]: /guides/plugins_in_modules.html
+[installing]: ./modules_installing.markdown
+[fundamentals]: ./modules_fundamentals.markdown
+[plugins]: /guides/plugins_in_modules.markdown
 [forge]: https://forge.puppetlabs.com/
 [rspec]: http://rspec-puppet.com/
 [signup]: ./images/forge_signup.png
@@ -15,7 +14,7 @@ canonical: "/puppet/latest/reference/modules_publishing.html"
 [uploadtarball]: ./images/forge_upload_tarball.png
 [uploadtarball2]: ./images/forge_upload_tarball2.png
 [forgenewrelease]: ./images/forge_new_release.png
-[documentation]: ./modules_documentation.html
+[documentation]: ./modules_documentation.markdown
 [errors]: ./modules_installing.html#errors
 
 Publishing Modules on the Puppet Forge

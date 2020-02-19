@@ -1,23 +1,22 @@
 ---
 layout: default
 title: "Language: Scope"
-canonical: "/puppet/latest/reference/lang_scope.html"
 ---
 
-[resources]: ./lang_resources.html
+[resources]: ./lang_resources.markdown
 [refs]: ./lang_datatypes.html#resource-references
-[class]: ./lang_classes.html
-[definedtype]: ./lang_defined_types.html
-[node]: ./lang_node_definitions.html
-[resourcedefaults]: ./lang_defaults.html
+[class]: ./lang_classes.markdown
+[definedtype]: ./lang_defined_types.markdown
+[node]: ./lang_node_definitions.markdown
+[resourcedefaults]: ./lang_defaults.markdown
 [declare_class]: ./lang_classes.html#declaring-classes
 [lookup]: #scope-lookup-rules
-[enc]: /guides/external_nodes.html
+[enc]: /guides/external_nodes.markdown
 [inheritance]: ./lang_classes.html#inheritance
-[import]: ./lang_import.html
-[scopedoc]: /puppet/2.7/reference/scope_and_puppet.html
-[variables]: ./lang_variables.html
-[namespace]: ./lang_namespaces.html
+[import]: ./lang_import.markdown
+[scopedoc]: /puppet/2.7/reference/scope_and_puppet.markdown
+[variables]: ./lang_variables.markdown
+[namespace]: ./lang_namespaces.markdown
 [diagram]: ./images/scope-euler-diagram.png
 
 Scope Basics

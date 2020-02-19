@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Report Reference"
-canonical: "/puppet/latest/reference/report.html"
 ---
 
 

@@ -3,7 +3,7 @@ layout: default
 title: "Deprecated Resource Type Features"
 ---
 
-[main manifest]: ./dirs_manifest.html
+[main manifest]: ./dirs_manifest.markdown
 
 The following features of Puppet's built-in resource types are deprecated, and will be removed in Puppet 4.0.
 

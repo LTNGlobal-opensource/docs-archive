@@ -1,14 +1,13 @@
 ---
 layout: default
 title: "Future Parser: Resource Default Statements"
-canonical: "/puppet/latest/reference/lang_defaults.html"
 ---
 
-[sitemanifest]: ./dirs_manifest.html
+[sitemanifest]: ./dirs_manifest.markdown
 [dynamic_scope]: ./future_lang_scope.html#scope-lookup-rules
-[resource]: ./future_lang_resources.html
-[definedtypes]: ./future_lang_defined_types.html
-[node]: ./future_lang_node_definitions.html
+[resource]: ./future_lang_resources.markdown
+[definedtypes]: ./future_lang_defined_types.markdown
+[node]: ./future_lang_node_definitions.markdown
 
 Resource default statements let you set default attribute values for a given resource type. Any resource declaration within the area of effect that omits those attributes will inherit the default values.
 

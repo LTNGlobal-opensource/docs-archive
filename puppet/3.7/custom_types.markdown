@@ -4,11 +4,11 @@ title: Custom Types
 ---
 
 [package_type]: /puppet/latest/type.html#package
-[module]: /puppet/latest/modules_fundamentals.html
-[custom_functions]: /puppet/latest/custom_functions.html
-[custom_facts]: /facter/latest/custom_facts.html
+[module]: /puppet/latest/modules_fundamentals.markdown
+[custom_functions]: /puppet/latest/custom_functions.markdown
+[custom_facts]: /facter/latest/custom_facts.markdown
 [pluginsync]: /puppet/latest/configuration.html#pluginsync
-[symbol]: http://www.ruby-doc.org/core/Symbol.html
+[symbol]: http://www.ruby-doc.org/core/Symbol.markdown
 [ruby_block]: http://www.robertsosinski.com/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/
 [markdown]: http://commonmark.org/
 [metaparameters]: /puppet/latest/lang_resources.html#metaparameters

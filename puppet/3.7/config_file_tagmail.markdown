@@ -1,10 +1,9 @@
 ---
 layout: default
 title: "Config Files: tagmail.conf"
-canonical: "/puppet/latest/reference/config_file_tagmail.html"
 ---
 
-[tags]: ./lang_tags.html
+[tags]: ./lang_tags.markdown
 [tagmail_reference]: ./report.html#tagmail
 [report_server]: ./configuration.html#reportserver
 [report]: ./configuration.html#report
@@ -42,7 +41,7 @@ The `tagmail.conf` file is located at `$confdir/tagmail.conf` by default. Its lo
 
 The location of the `confdir` varies; it depends on the OS, Puppet distribution, and user account. [See the confdir documentation for details.][confdir]
 
-[confdir]: ./dirs_confdir.html
+[confdir]: ./dirs_confdir.markdown
 
 ### Example
 

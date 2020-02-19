@@ -1,18 +1,17 @@
 ---
 layout: default
 title: "About Environments"
-canonical: "/puppet/latest/reference/environments.html"
 ---
 
 
-[manifest_dir]: ./dirs_manifest.html
-[modulepath]: ./dirs_modulepath.html
-[config_file_envs]: ./environments_classic.html
+[manifest_dir]: ./dirs_manifest.markdown
+[modulepath]: ./dirs_modulepath.markdown
+[config_file_envs]: ./environments_classic.markdown
 [config_file_envs_sections]: ./environments_classic.html#environment-config-sections
-[assign]: ./environments_assigning.html
+[assign]: ./environments_assigning.markdown
 [env_var]: ./lang_facts_and_builtin_vars.html#variables-set-by-the-puppet-master
-[dir_env_configure]: ./environments_configuring.html
-[dir_env_create]: ./environments_creating.html
+[dir_env_configure]: ./environments_configuring.markdown
+[dir_env_create]: ./environments_creating.markdown
 
 Environments are isolated groups of Puppet agent nodes. A Puppet master server can serve each environment with completely different [main manifests][manifest_dir] and [modulepaths][modulepath].
 

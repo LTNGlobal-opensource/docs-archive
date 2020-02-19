@@ -1,19 +1,18 @@
 ---
 layout: default
 title: "Language: Relationships and Ordering"
-canonical: "/puppet/latest/reference/lang_relationships.html"
 ---
 
-[virtual]: ./lang_virtual.html
-[collector]: ./lang_collectors.html
-[resources]: ./lang_resources.html
+[virtual]: ./lang_virtual.markdown
+[collector]: ./lang_collectors.markdown
+[resources]: ./lang_resources.markdown
 [reference]: ./lang_datatypes.html#resource-references
 [array]: ./lang_datatypes.html#arrays
-[class]: ./lang_classes.html
+[class]: ./lang_classes.markdown
 [event]: ./lang_resources.html#behavior
 [service]: ./type.html#service
 [exec]: ./type.html#exec
-[type]: ./type.html
+[type]: ./type.markdown
 [mount]: ./type.html#mount
 [metaparameters]: ./lang_resources.html#metaparameters
 [require_function]: ./lang_classes.html#using-require

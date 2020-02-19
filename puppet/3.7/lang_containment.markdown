@@ -1,13 +1,12 @@
 ---
 layout: default
 title: "Language: Containment of Resources"
-canonical: "/puppet/latest/reference/lang_containment.html"
 ---
 
 [stdlib]: http://forge.puppetlabs.com/puppetlabs/stdlib
-[classes]: ./lang_classes.html
-[definedtype]: ./lang_defined_types.html
-[relationship]: ./lang_relationships.html
+[classes]: ./lang_classes.markdown
+[definedtype]: ./lang_defined_types.markdown
+[relationship]: ./lang_relationships.markdown
 [notify]: ./lang_relationships.html#ordering-and-notification
 
 Containment

@@ -1,18 +1,17 @@
 ---
 layout: default
 title: "Language: Resource Collectors"
-canonical: "/puppet/latest/reference/lang_collectors.html"
 ---
 
-[virtual]: ./lang_virtual.html
+[virtual]: ./lang_virtual.markdown
 [realize]: ./lang_virtual.html#syntax
-[exported]: ./lang_exported.html
+[exported]: ./lang_exported.markdown
 [puppetdb]: /puppetdb/
-[puppetdb_install]: /puppetdb/latest/install_via_module.html
-[puppetdb_connect]: /puppetdb/latest/connect_puppet_master.html
+[puppetdb_install]: /puppetdb/latest/install_via_module.markdown
+[puppetdb_connect]: /puppetdb/latest/connect_puppet_master.markdown
 [chaining]: ./lang_relationships.html#chaining-arrows
 [attribute]: ./lang_resources.html#attributes
-[expressions]: ./lang_expressions.html
+[expressions]: ./lang_expressions.markdown
 [string]: ./lang_datatypes.html#strings
 [boolean]: ./lang_datatypes.html#booleans
 [number]: ./lang_datatypes.html#numbers

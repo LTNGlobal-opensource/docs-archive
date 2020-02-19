@@ -1,24 +1,23 @@
 ---
 layout: default
 title: "Future Parser: Reserved Words and Acceptable Names"
-canonical: "/puppet/latest/reference/lang_reserved.html"
 ---
 
-[settings]: ./config_about_settings.html
-[tags]: ./future_lang_tags.html
+[settings]: ./config_about_settings.markdown
+[tags]: ./future_lang_tags.markdown
 [built_in]: ./future_lang_variables.html#facts-and-built-in-variables
-[facts]: /facter/latest/core_facts.html
+[facts]: /facter/latest/core_facts.markdown
 [capture]: ./future_lang_data_regexp.html#regex-capture-variables
-[conditional]: ./future_lang_conditional.html
+[conditional]: ./future_lang_conditional.markdown
 [topscope]: ./future_lang_scope.html#top-scope
-[namespace]: ./future_lang_namespaces.html
-[scopes]: ./future_lang_scope.html
-[contains]: ./future_lang_containment.html
-[resources]: ./future_lang_resources.html
-[class]: ./future_lang_classes.html
-[type_ref]: ./type.html
-[func_ref]: ./function.html
-[environment]: ./environments.html
+[namespace]: ./future_lang_namespaces.markdown
+[scopes]: ./future_lang_scope.markdown
+[contains]: ./future_lang_containment.markdown
+[resources]: ./future_lang_resources.markdown
+[class]: ./future_lang_classes.markdown
+[type_ref]: ./type.markdown
+[func_ref]: ./function.markdown
+[environment]: ./environments.markdown
 
 Reserved Words
 -----

@@ -1,15 +1,14 @@
 ---
 layout: default
 title: "Config Files: environment.conf"
-canonical: "/puppet/latest/reference/config_file_environment.html"
 ---
 
-[directory environments]: ./environments.html
+[directory environments]: ./environments.markdown
 [environmentpath]: ./environments.html#about-environmentpath
 [modulepath]: ./configuration.html#modulepath
-[puppet.conf]: ./config_file_main.html
+[puppet.conf]: ./config_file_main.markdown
 [basemodulepath]: ./configuration.html#basemodulepath
-[main manifest]: ./dirs_manifest.html
+[main manifest]: ./dirs_manifest.markdown
 [configuring_timeout]: ./environments_configuring.html#environmenttimeout
 
 When using [directory environments][], each environment may contain an `environment.conf` file. This file can override several settings whenever the Puppet master is serving nodes assigned to that environment.

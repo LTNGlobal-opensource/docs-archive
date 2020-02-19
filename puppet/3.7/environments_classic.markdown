@@ -1,19 +1,18 @@
 ---
 layout: default
 title: "Config-file Environments"
-canonical: "/puppet/latest/reference/environments_classic.html"
 ---
 
 [config_sections]: ./config_file_main.html#config-sections
-[manifest_dir]: ./dirs_manifest.html
-[modulepath]: ./dirs_modulepath.html
+[manifest_dir]: ./dirs_manifest.markdown
+[modulepath]: ./dirs_modulepath.markdown
 [config_version]: ./configuration.html#configversion
-[puppet.conf]: ./config_file_main.html
+[puppet.conf]: ./config_file_main.markdown
 [manifest_setting]: ./configuration.html#manifest
 [modulepath_setting]: ./configuration.html#modulepath
-[directory_environments]: ./environments.html
+[directory_environments]: ./environments.markdown
 [dir_envs_enable]: ./environments.html#enabling-directory-environments
-[enc]: /guides/external_nodes.html
+[enc]: /guides/external_nodes.markdown
 [node terminus]: ./subsystem_catalog_compilation.html#step-1-retrieve-the-node-object
 [enc_environment]: /guides/external_nodes.html#environment
 [env_setting]: ./configuration.html#environment

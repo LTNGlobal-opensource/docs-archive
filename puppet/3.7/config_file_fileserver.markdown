@@ -1,13 +1,12 @@
 ---
 layout: default
 title: "Config Files: fileserver.conf"
-canonical: "/puppet/latest/reference/config_file_fileserver.html"
 ---
 
 [file]: ./type.html#file
 [module_files]: ./modules_fundamentals.html#files
 [fileserverconfig]: ./configuration.html#fileserverconfig
-[auth_conf]: ./config_file_auth.html
+[auth_conf]: ./config_file_auth.markdown
 
 The `fileserver.conf` file configures custom static mount points for Puppet's file server. If custom mount points are present, [`file` resources][file] can access them with their `source` attributes.
 
@@ -23,7 +22,7 @@ The `fileserver.conf` file is located at `$confdir/fileserver.conf` by default. 
 
 The location of the `confdir` varies; it depends on the OS, Puppet distribution, and user account. [See the confdir documentation for details.][confdir]
 
-[confdir]: ./dirs_confdir.html
+[confdir]: ./dirs_confdir.markdown
 
 ## Example
 

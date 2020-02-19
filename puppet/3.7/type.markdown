@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Type Reference"
-canonical: "/puppet/latest/reference/type.html"
 munge_header_ids: false
 toc: false
 ---
@@ -9077,7 +9076,7 @@ If left unspecified, the status of the service will be determined
 automatically, usually by looking for the service in the process
 table.
 
-[lsb-exit-codes]: http://refspecs.linuxfoundation.org/LSB_4.1.0/LSB-Core-generic/LSB-Core-generic/iniscrptact.html
+[lsb-exit-codes]: http://refspecs.linuxfoundation.org/LSB_4.1.0/LSB-Core-generic/LSB-Core-generic/iniscrptact.markdown
 
 ([↑ Back to service attributes](#service-attributes))
 

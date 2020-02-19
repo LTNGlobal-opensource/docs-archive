@@ -1,10 +1,9 @@
 ---
 layout: default
 title: "Config Files: puppetdb.conf"
-canonical: "/puppet/latest/reference/config_file_puppetdb.html"
 ---
 
-[puppetdb_connection]: /puppetdb/latest/puppetdb_connection.html
+[puppetdb_connection]: /puppetdb/latest/puppetdb_connection.markdown
 
 
 The `puppetdb.conf` file configures how Puppet should connect to one or more [PuppetDB](/puppetdb/latest/) servers. It is only used if you are using PuppetDB and have [connected your Puppet master to it](/puppetdb/latest/connect_puppet_master.html).
@@ -19,7 +18,7 @@ The `puppetdb.conf` file is always located at `$confdir/puppetdb.conf`. Its loca
 
 The location of the `confdir` varies; it depends on the OS, Puppet distribution, and user account. [See the confdir documentation for details.][confdir]
 
-[confdir]: ./dirs_confdir.html
+[confdir]: ./dirs_confdir.markdown
 
 ### Example
 

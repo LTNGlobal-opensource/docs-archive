@@ -1,17 +1,16 @@
 ---
 layout: default
 title: "Installing Modules"
-canonical: "/puppet/latest/reference/modules_installing.html"
 ---
 
 [forge]: http://forge.puppetlabs.com
-[module_man]: ./man/module.html
+[module_man]: ./man/module.markdown
 [modulepath]: ./configuration.html#modulepath
 
-[publishing]: ./modules_publishing.html
-[fundamentals]: ./modules_fundamentals.html
-[plugins]: /guides/plugins_in_modules.html
-[documentation]: ./modules_documentation.html
+[publishing]: ./modules_publishing.markdown
+[fundamentals]: ./modules_fundamentals.markdown
+[plugins]: /guides/plugins_in_modules.markdown
+[documentation]: ./modules_documentation.markdown
 [errors]: https://docs.puppetlabs.com/windows/troubleshooting.html#error-messages
 
 Installing Modules
@@ -75,8 +74,8 @@ If you have used a command line package manager tool (like `gem`, `apt-get`, or 
 
 In order to use the Puppet module tool behind a proxy, you need to set the following:
 
-	export http_proxy=http://10.187.255.9:8080
-	export https_proxy=http://10.187.255.9:8080
+  export http_proxy=http://10.187.255.9:8080
+  export https_proxy=http://10.187.255.9:8080
 
 Alternatively, you can set these two proxy settings inside the `user` config section in the `puppet.conf` file: `http_proxy_host` and `http_proxy_port`. For more information, see [Configuration Reference](./configuration.html).
 

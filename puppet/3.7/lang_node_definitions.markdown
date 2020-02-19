@@ -1,27 +1,26 @@
 ---
 layout: default
 title: "Language: Node Definitions"
-canonical: "/puppet/latest/reference/lang_node_definitions.html"
 ---
 
 [hiera]: /hiera/latest
-[sitepp]: ./dirs_manifest.html
+[sitepp]: ./dirs_manifest.markdown
 [certname]: ./config_important_settings.html#basics
-[classes]: ./lang_classes.html
+[classes]: ./lang_classes.markdown
 [nodescope]: ./lang_scope.html#node-scope
 [topscope]: ./lang_scope.html#top-scope
 [extlookup]: ./function.html#extlookup
-[custom_functions]: /guides/custom_functions.html
-[import]: ./lang_import.html
+[custom_functions]: /guides/custom_functions.markdown
+[import]: ./lang_import.markdown
 [regex]: ./lang_datatypes.html#regular-expressions
 [strings]: ./lang_datatypes.html#strings
 [inherit]: ./lang_classes.html#inheritance
-[modules]: ./modules_fundamentals.html
-[enc]: /guides/external_nodes.html
+[modules]: ./modules_fundamentals.markdown
+[enc]: /guides/external_nodes.markdown
 [facts]: ./lang_variables.html#facts-and-built-in-variables
 [catalog]: ./lang_summary.html#compilation-and-catalogs
 [strict]: ./configuration.html#stricthostnamechecking
-[conditional]: ./lang_conditional.html
+[conditional]: ./lang_conditional.markdown
 
 
 A **node definition** or **node statement** is a block of Puppet code that will only be included in one node's [catalog][]. This feature allows you to assign specific configurations to specific nodes.

@@ -1,23 +1,22 @@
 ---
 layout: default
 title: "Future Parser: Introduction to the Future Parser"
-canonical: "/puppet/3.8/reference/experiments_future.html"
 ---
 
 [parser_setting]: ./configuration.html#parser
 [boolean_convert_old]: ./lang_datatypes.html#automatic-conversion-to-boolean
 [boolean_convert]: ./future_lang_data_boolean.html#automatic-conversion-to-boolean
-[puppet.conf]: ./config_file_main.html
-[environment]: ./environments.html
-[environment.conf]: ./config_file_environment.html
-[iteration]: ./future_lang_iteration.html
+[puppet.conf]: ./config_file_main.markdown
+[environment]: ./environments.markdown
+[environment.conf]: ./config_file_environment.markdown
+[iteration]: ./future_lang_iteration.markdown
 [match_operator]: ./future_lang_expressions.html#regex-or-data-type-match
 [parameter_datatypes]: ./future_lang_data_type.html#parameter-lists
-[data_types]: ./future_lang_data.html
+[data_types]: ./future_lang_data.markdown
 [relative_namespace]: ./lang_namespaces.html#relative-name-lookup-and-incorrect-name-resolution
 [comparison operators]: ./future_lang_expressions.html#comparison-operators
-[fact]: ./future_lang_facts_and_builtin_vars.html
-[strings]: ./future_lang_data_string.html
+[fact]: ./future_lang_facts_and_builtin_vars.markdown
+[strings]: ./future_lang_data_string.markdown
 [stringify_facts]: ./configuration.html#stringifyfacts
 [str2bool]: https://forge.puppetlabs.com/puppetlabs/stdlib#str2bool
 [file_mode]: ./type.html#file-attribute-mode

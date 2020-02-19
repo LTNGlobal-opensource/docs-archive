@@ -1,27 +1,26 @@
 ---
 layout: default
 title: "Language: Resources"
-canonical: "/puppet/latest/reference/lang_resources.html"
 ---
 
 [realize]: ./lang_virtual.html#syntax
-[virtual]: ./lang_virtual.html
-[containment]: ./lang_containment.html
-[scope]: ./lang_scope.html
-[report]: /guides/reporting.html
+[virtual]: ./lang_virtual.markdown
+[containment]: ./lang_containment.markdown
+[scope]: ./lang_scope.markdown
+[report]: /guides/reporting.markdown
 [append_attributes]: ./lang_classes.html#appending-to-resource-attributes
-[types]: ./type.html
+[types]: ./type.markdown
 [bareword]: ./lang_datatypes.html#bare-words
 [string]: ./lang_datatypes.html#strings
 [array]: ./lang_datatypes.html#arrays
-[datatype]: ./lang_datatypes.html
+[datatype]: ./lang_datatypes.markdown
 [inheritance]: ./lang_classes.html#inheritance
-[relationships]: ./lang_relationships.html
-[resdefaults]: ./lang_defaults.html
+[relationships]: ./lang_relationships.markdown
+[resdefaults]: ./lang_defaults.markdown
 [reference]: ./lang_datatypes.html#resource-references
-[class]: ./lang_classes.html
-[defined_type]: ./lang_defined_types.html
-[collector]: ./lang_collectors.html
+[class]: ./lang_classes.markdown
+[defined_type]: ./lang_defined_types.markdown
+[collector]: ./lang_collectors.markdown
 [catalog]: ./lang_summary.html#compilation-and-catalogs
 
 > * [See the Type Reference for complete information about Puppet's built-in resource types.][types]

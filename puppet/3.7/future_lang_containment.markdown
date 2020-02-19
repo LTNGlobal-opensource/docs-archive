@@ -1,13 +1,12 @@
 ---
 layout: default
 title: "Future Parser: Containment of Resources"
-canonical: "/puppet/latest/reference/lang_containment.html"
 ---
 
 [stdlib]: http://forge.puppetlabs.com/puppetlabs/stdlib
-[classes]: ./future_lang_classes.html
-[definedtype]: ./future_lang_defined_types.html
-[relationship]: ./future_lang_relationships.html
+[classes]: ./future_lang_classes.markdown
+[definedtype]: ./future_lang_defined_types.markdown
+[relationship]: ./future_lang_relationships.markdown
 [notify]: ./future_lang_relationships.html#ordering-and-notification
 
 Containment

@@ -1,7 +1,6 @@
 ---
 title: "Language: Conditional Statements"
 layout: default
-canonical: "/puppet/latest/reference/lang_conditional.html"
 ---
 
 
@@ -12,10 +11,10 @@ canonical: "/puppet/latest/reference/lang_conditional.html"
 [equality]: ./lang_expressions.html#equality
 [fail]: ./function.html#fail
 [regex_compare]: ./lang_expressions.html#regex-match
-[expressions]: ./lang_expressions.html
+[expressions]: ./lang_expressions.markdown
 [bool_convert]: ./lang_datatypes.html#automatic-conversion-to-boolean
-[variables]: ./lang_variables.html
-[functions]: ./lang_functions.html
+[variables]: ./lang_variables.markdown
+[functions]: ./lang_functions.markdown
 
 
 Conditional statements let your Puppet code behave differently in different situations. They are most helpful when combined with [facts][] or with data retrieved from an external source.

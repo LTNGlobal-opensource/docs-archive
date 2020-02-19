@@ -1,11 +1,10 @@
 ---
 layout: default
 title: "SSL Configuration: Autosigning Certificate Requests"
-canonical: "/puppet/latest/reference/ssl_autosign.html"
 ---
 
-[external_ca]: ./config_ssl_external_ca.html
-[csr_attributes]: ./ssl_attributes_extensions.html
+[external_ca]: ./config_ssl_external_ca.markdown
+[csr_attributes]: ./ssl_attributes_extensions.markdown
 
 
 CSRs, Certificates, and Autosigning

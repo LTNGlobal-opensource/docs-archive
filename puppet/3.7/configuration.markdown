@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Configuration Reference"
-canonical: "/puppet/latest/reference/configuration.html"
 ---
 
 
@@ -38,7 +37,7 @@ canonical: "/puppet/latest/reference/configuration.html"
 
 See the [configuration guide][confguide] for more details.
 
-[confguide]: http://docs.puppetlabs.com/guides/configuring.html
+[confguide]: http://docs.puppetlabs.com/guides/configuring.markdown
 
 * * *
 
@@ -158,7 +157,7 @@ POSIX path separator is ':', and the Windows path separator is ';'.)
 If you are using directory environments, these are the modules that will
 be used by _all_ environments. Note that the `modules` directory of the active
 environment will have priority over any global directories. For more info, see
-http://docs.puppetlabs.com/puppet/latest/reference/environments.html
+http://docs.puppetlabs.com/puppet/latest/reference/environments.markdown
 
 This setting also provides the default value for the deprecated `modulepath`
 setting, which is used when directory environments are disabled.
@@ -437,7 +436,7 @@ reports, allowing you to correlate changes on your hosts to the source version o
 
 Setting a global value for config_version in puppet.conf is deprecated. Please set a
 per-environment value in environment.conf instead. For more info, see
-http://docs.puppetlabs.com/puppet/latest/reference/environments.html
+http://docs.puppetlabs.com/puppet/latest/reference/environments.markdown
 
 
 ### configprint
@@ -751,7 +750,7 @@ is ':', and the Windows path separator is ';'.)
 
 This setting must have a value set to enable **directory environments.** The
 recommended value is `$confdir/environments`. For more details, see
-http://docs.puppetlabs.com/puppet/latest/reference/environments.html
+http://docs.puppetlabs.com/puppet/latest/reference/environments.markdown
 
 
 ### evaltrace
@@ -1210,7 +1209,7 @@ Setting a global value for `manifest` in puppet.conf is deprecated. Please use
 directory environments instead. If you need to use something other than the
 environment's `manifests` directory as the main manifest, you can set
 `manifest` in environment.conf. For more info, see
-http://docs.puppetlabs.com/puppet/latest/reference/environments.html
+http://docs.puppetlabs.com/puppet/latest/reference/environments.markdown
 
 - *Default*: $manifestdir/site.pp
 
@@ -1323,7 +1322,7 @@ Setting a global value for `modulepath` in puppet.conf is deprecated. Please use
 directory environments instead. If you need to use something other than the
 default modulepath of `<ACTIVE ENVIRONMENT'S MODULES DIR>:$basemodulepath`,
 you can set `modulepath` in environment.conf. For more info, see
-http://docs.puppetlabs.com/puppet/latest/reference/environments.html
+http://docs.puppetlabs.com/puppet/latest/reference/environments.markdown
 
 - *Default*: $basemodulepath
 

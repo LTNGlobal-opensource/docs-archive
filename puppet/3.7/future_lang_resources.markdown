@@ -1,29 +1,28 @@
 ---
 layout: default
 title: "Future Parser: Resources"
-canonical: "/puppet/latest/reference/lang_resources.html"
 ---
 
 [realize]: ./future_lang_virtual.html#syntax
-[virtual]: ./future_lang_virtual.html
-[containment]: ./future_lang_containment.html
-[scope]: ./future_lang_scope.html
-[report]: /guides/reporting.html
-[types]: ./type.html
-[string]: ./future_lang_data_string.html
-[array]: ./future_lang_data_array.html
-[datatype]: ./future_lang_data.html
-[relationships]: ./future_lang_relationships.html
-[reference]: ./future_lang_data_resource_reference.html
-[class]: ./future_lang_classes.html
-[defined_type]: ./future_lang_defined_types.html
+[virtual]: ./future_lang_virtual.markdown
+[containment]: ./future_lang_containment.markdown
+[scope]: ./future_lang_scope.markdown
+[report]: /guides/reporting.markdown
+[types]: ./type.markdown
+[string]: ./future_lang_data_string.markdown
+[array]: ./future_lang_data_array.markdown
+[datatype]: ./future_lang_data.markdown
+[relationships]: ./future_lang_relationships.markdown
+[reference]: ./future_lang_data_resource_reference.markdown
+[class]: ./future_lang_classes.markdown
+[defined_type]: ./future_lang_defined_types.markdown
 [catalog]: ./future_lang_summary.html#compilation-and-catalogs
 [files]: ./type.html#file
 [cron jobs]: ./type.html#cron
 [services]: ./type.html#service
-[custom_types]: /guides/custom_types.html
-[resource_advanced]: ./future_lang_resources_advanced.html
-[expressions]: ./future_lang_expressions.html
+[custom_types]: /guides/custom_types.markdown
+[resource_advanced]: ./future_lang_resources_advanced.markdown
+[expressions]: ./future_lang_expressions.markdown
 
 
 **Resources** are the fundamental unit for modeling system configurations. Each resource describes some aspect of a system, like a specific service or package.

@@ -1,34 +1,33 @@
 ---
 layout: default
 title: "Language: Basics"
-canonical: "/puppet/latest/reference/lang_summary.html"
 ---
 
-[site_manifest]: ./dirs_manifest.html
+[site_manifest]: ./dirs_manifest.markdown
 [autoload]: ./lang_namespaces.html#autoloader-behavior
-[config]: ./config_file_main.html
+[config]: ./config_file_main.markdown
 [usecacheonfailure]: ./configuration.html#usecacheonfailure
 [fileserve]: ./modules_fundamentals.html#files
-[classes]: ./lang_classes.html
-[enc]: /guides/external_nodes.html
-[resources]: ./lang_resources.html
+[classes]: ./lang_classes.markdown
+[enc]: /guides/external_nodes.markdown
+[resources]: ./lang_resources.markdown
 [chaining]: ./lang_relationships.html#chaining-arrows
-[modules]: ./modules_fundamentals.html
+[modules]: ./modules_fundamentals.markdown
 [package]: ./type.html#package
 [file]: ./type.html#file
 [service]: ./type.html#service
 [case]: ./lang_conditional.html#case-statements
 [fact]: ./lang_variables.html#facts-and-built-in-variables
-[variables]: ./lang_variables.html
-[relationships]: ./lang_relationships.html
+[variables]: ./lang_variables.markdown
+[relationships]: ./lang_relationships.markdown
 [ordering]: ./lang_relationships.html#ordering-and-notification
 [notification]: ./lang_relationships.html#ordering-and-notification
 [declared]: /references/glossary.html#declare
 [string_newline]: ./lang_datatypes.html#line-breaks
-[node]: ./lang_node_definitions.html
+[node]: ./lang_node_definitions.markdown
 [ordering]: ./configuration.html#ordering
 [hiera]: /hiera/latest
-[compilation]: ./subsystem_catalog_compilation.html
+[compilation]: ./subsystem_catalog_compilation.markdown
 
 Puppet uses its own configuration language, which was designed to be accessible to sysadmins. The Puppet language does not require much formal programming experience and its syntax was inspired by the Nagios configuration file format.
 

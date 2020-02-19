@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Metaparameter Reference"
-canonical: "/puppet/latest/reference/metaparameter.html"
 ---
 
 

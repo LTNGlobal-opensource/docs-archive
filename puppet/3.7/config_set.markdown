@@ -1,12 +1,11 @@
 ---
 layout: default
 title: "Configuration: Editing Settings on the Command Line"
-canonical: "/puppet/latest/reference/config_set.html"
 ---
 
 [config_sections]: ./config_file_main.html#config-sections
-[puppet.conf]: ./config_file_main.html
-[environments]: ./environments.html
+[puppet.conf]: ./config_file_main.markdown
+[environments]: ./environments.markdown
 [confdir_sys]: ./dirs_confdir.html#system-and-user-confdirs
 
 Puppet loads most of its settings from [the puppet.conf config file.][puppet.conf] You can edit this file directly, or you can change individual settings with the `puppet config set` command.

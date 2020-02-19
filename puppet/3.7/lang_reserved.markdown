@@ -1,25 +1,24 @@
 ---
 layout: default
 title: "Language: Reserved Words and Acceptable Names"
-canonical: "/puppet/latest/reference/lang_reserved.html"
 ---
 
-[settings]: ./config_about_settings.html
-[tags]: ./lang_tags.html
+[settings]: ./config_about_settings.markdown
+[tags]: ./lang_tags.markdown
 [built_in]: ./lang_variables.html#facts-and-built-in-variables
-[facts]: /facter/latest/core_facts.html
+[facts]: /facter/latest/core_facts.markdown
 [capture]: ./lang_datatypes.html#regex-capture-variables
-[conditional]: ./lang_conditional.html
+[conditional]: ./lang_conditional.markdown
 [topscope]: ./lang_scope.html#top-scope
-[namespace]: ./lang_namespaces.html
-[scopes]: ./lang_scope.html
-[contains]: ./lang_containment.html
-[resources]: ./lang_resources.html
-[class]: ./lang_classes.html
+[namespace]: ./lang_namespaces.markdown
+[scopes]: ./lang_scope.markdown
+[contains]: ./lang_containment.markdown
+[resources]: ./lang_resources.markdown
+[class]: ./lang_classes.markdown
 [qualified_var]: ./lang_variables.html#accessing-out-of-scope-variables
-[type_ref]: ./type.html
-[func_ref]: ./function.html
-[environment]: ./environments.html
+[type_ref]: ./type.markdown
+[func_ref]: ./function.markdown
+[environment]: ./environments.markdown
 
 Reserved Words
 -----

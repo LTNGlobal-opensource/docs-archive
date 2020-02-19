@@ -1,11 +1,10 @@
 ---
 layout: default
 title: "Directories: The Vardir"
-canonical: "/puppet/latest/reference/dirs_vardir.html"
 ---
 
-[confdir]: ./dirs_confdir.html
-[config_ref]: ./configuration.html
+[confdir]: ./dirs_confdir.markdown
+[config_ref]: ./configuration.markdown
 
 Puppet's `vardir` is the traditional `/var/lib/puppet` directory, although its actual location varies. It contains **dynamic and/or growing data** that Puppet creates automatically in the course of its normal operations. Some of this data can be mined for interesting analysis, or to integrate other tools with Puppet; other parts are just infrastructure and should be ignored by most or all users.
 

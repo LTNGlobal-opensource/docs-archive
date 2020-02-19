@@ -1,22 +1,21 @@
 ---
 layout: default
 title: "Directories: The Main Manifest(s)"
-canonical: "/puppet/latest/reference/dirs_manifest.html"
 ---
 
 [import_deprecation]: ./lang_import.html#deprecation-notice
-[environment]: ./environments.html
-[catalog_compilation]: ./subsystem_catalog_compilation.html
-[confdir]: ./dirs_confdir.html
+[environment]: ./environments.markdown
+[catalog_compilation]: ./subsystem_catalog_compilation.markdown
+[confdir]: ./dirs_confdir.markdown
 [manifest_setting]: ./configuration.html#manifest
-[print_settings]: ./config_print.html
-[enc]: /guides/external_nodes.html
+[print_settings]: ./config_print.markdown
+[enc]: /guides/external_nodes.markdown
 [default_manifest]: ./configuration.html#defaultmanifest
 [disable_per_environment_manifest]: ./configuration.html#disableperenvironmentmanifest
-[environment.conf]: ./config_file_environment.html
-[puppet.conf]: ./config_file_main.html
-[configuring directory environments]: ./environments_configuring.html
-[creating directory environments]: ./environments_creating.html
+[environment.conf]: ./config_file_environment.markdown
+[puppet.conf]: ./config_file_main.markdown
+[configuring directory environments]: ./environments_configuring.markdown
+[creating directory environments]: ./environments_creating.markdown
 
 
 Puppet always starts compiling with either a single manifest file or a directory of manifests that get treated like a single file. This main starting point is called the **main manifest** or **site manifest.**

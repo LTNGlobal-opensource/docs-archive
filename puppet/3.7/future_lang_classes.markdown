@@ -1,35 +1,34 @@
 ---
 layout: default
 title: "Future Parser: Classes"
-canonical: "/puppet/latest/reference/lang_classes.html"
 ---
 
-[literal_types]: ./future_lang_data_type.html
-[sitedotpp]: ./dirs_manifest.html
+[literal_types]: ./future_lang_data_type.markdown
+[sitedotpp]: ./dirs_manifest.markdown
 [collector_override]: ./future_lang_resources_advanced.html#amending-attributes-with-a-collector
-[namespace]: ./future_lang_namespaces.html
-[enc]: /guides/external_nodes.html
-[tags]: ./future_lang_tags.html
+[namespace]: ./future_lang_namespaces.markdown
+[enc]: /guides/external_nodes.markdown
+[tags]: ./future_lang_tags.markdown
 [allowed]: ./future_lang_reserved.html#classes-and-types
 [reserved]: ./future_lang_reserved.html#reserved-parameter-names
-[function]: ./future_lang_functions.html
-[modules]: ./modules_fundamentals.html
-[contains]: ./future_lang_containment.html
+[function]: ./future_lang_functions.markdown
+[modules]: ./modules_fundamentals.markdown
+[contains]: ./future_lang_containment.markdown
 [contain_classes]: ./future_lang_containment.html#containing-classes
-[function]: ./future_lang_functions.html
+[function]: ./future_lang_functions.markdown
 [multi_ref]: ./future_lang_data_resource_reference.html#multi-resource-references
 [add_attribute]: ./future_lang_resources_advanced.html#adding-or-modifying-attributes
-[undef]: ./future_lang_data_undef.html
-[relationships]: ./future_lang_relationships.html
+[undef]: ./future_lang_data_undef.markdown
+[relationships]: ./future_lang_relationships.markdown
 [qualified_var]: ./future_lang_variables.html#accessing-out-of-scope-variables
-[variable]: ./future_lang_variables.html
+[variable]: ./future_lang_variables.markdown
 [variable_assignment]: ./future_lang_variables.html#assignment
-[resource_reference]: ./future_lang_data_resource_reference.html
-[node]: ./future_lang_node_definitions.html
-[resource_declaration]: ./future_lang_resources.html
-[scope]: ./future_lang_scope.html
+[resource_reference]: ./future_lang_data_resource_reference.markdown
+[node]: ./future_lang_node_definitions.markdown
+[resource_declaration]: ./future_lang_resources.markdown
+[scope]: ./future_lang_scope.markdown
 [parent_scope]: ./future_lang_scope.html#scope-lookup-rules
-[definedtype]: ./future_lang_defined_types.html
+[definedtype]: ./future_lang_defined_types.markdown
 [metaparameters]: ./future_lang_resources.html#metaparameters
 [catalog]: ./future_lang_summary.html#compilation-and-catalogs
 [facts]: ./future_lang_variables.html#facts-and-built-in-variables
@@ -38,9 +37,9 @@ canonical: "/puppet/latest/reference/lang_classes.html"
 [override]: #using-resource-like-declarations
 [ldap_nodes]: http://projects.puppetlabs.com/projects/1/wiki/Ldap_Nodes
 [hiera]: /hiera/latest
-[external_data]: /hiera/latest/puppet.html
+[external_data]: /hiera/latest/puppet.markdown
 [array_search]: /hiera/latest/lookup_types.html#array-merge
-[hiera_hierarchy]: /hiera/latest/hierarchy.html
+[hiera_hierarchy]: /hiera/latest/hierarchy.markdown
 
 
 

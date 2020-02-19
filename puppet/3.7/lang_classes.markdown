@@ -1,45 +1,44 @@
 ---
 layout: default
 title: "Language: Classes"
-canonical: "/puppet/latest/reference/lang_classes.html"
 ---
 
-[sitedotpp]: ./dirs_manifest.html
+[sitedotpp]: ./dirs_manifest.markdown
 [collector_override]: ./lang_resources.html#amending-attributes-with-a-collector
-[namespace]: ./lang_namespaces.html
-[enc]: /guides/external_nodes.html
-[tags]: ./lang_tags.html
+[namespace]: ./lang_namespaces.markdown
+[enc]: /guides/external_nodes.markdown
+[tags]: ./lang_tags.markdown
 [allowed]: ./lang_reserved.html#classes-and-types
-[function]: ./lang_functions.html
-[modules]: ./modules_fundamentals.html
-[contains]: ./lang_containment.html
+[function]: ./lang_functions.markdown
+[modules]: ./modules_fundamentals.markdown
+[contains]: ./lang_containment.markdown
 [contain_classes]: ./lang_containment.html#containing-classes
-[function]: ./lang_functions.html
+[function]: ./lang_functions.markdown
 [multi_ref]: ./lang_datatypes.html#multi-resource-references
 [add_attribute]: ./lang_resources.html#adding-or-modifying-attributes
 [undef]: ./lang_datatypes.html#undef
-[relationships]: ./lang_relationships.html
+[relationships]: ./lang_relationships.markdown
 [qualified_var]: ./lang_variables.html#accessing-out-of-scope-variables
-[variable]: ./lang_variables.html
+[variable]: ./lang_variables.markdown
 [variable_assignment]: ./lang_variables.html#assignment
 [resource_reference]: ./lang_datatypes.html#resource-references
-[node]: ./lang_node_definitions.html
-[resource_declaration]: ./lang_resources.html
-[scope]: ./lang_scope.html
+[node]: ./lang_node_definitions.markdown
+[resource_declaration]: ./lang_resources.markdown
+[scope]: ./lang_scope.markdown
 [parent_scope]: ./lang_scope.html#scope-lookup-rules
-[definedtype]: ./lang_defined_types.html
+[definedtype]: ./lang_defined_types.markdown
 [metaparameters]: ./lang_resources.html#metaparameters
 [catalog]: ./lang_summary.html#compilation-and-catalogs
 [facts]: ./lang_variables.html#facts-and-built-in-variables
-[import]: ./lang_import.html
+[import]: ./lang_import.markdown
 [declare]: #declaring-classes
 [setting_parameters]: #include-like-vs-resource-like
 [override]: #using-resource-like-declarations
 [ldap_nodes]: http://projects.puppetlabs.com/projects/1/wiki/Ldap_Nodes
 [hiera]: /hiera/latest
-[external_data]: /hiera/latest/puppet.html
+[external_data]: /hiera/latest/puppet.markdown
 [array_search]: /hiera/latest/lookup_types.html#array-merge
-[hiera_hierarchy]: /hiera/latest/hierarchy.html
+[hiera_hierarchy]: /hiera/latest/hierarchy.markdown
 
 
 

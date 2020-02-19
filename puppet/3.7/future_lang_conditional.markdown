@@ -1,24 +1,23 @@
 ---
 title: "Future Parser: Conditional Statements and Expressions"
 layout: default
-canonical: "/puppet/latest/reference/lang_conditional.html"
 ---
 
 
 [local]: ./future_lang_scope.html#local-scopes
-[boolean]: ./future_lang_data_boolean.html
-[regex]: ./future_lang_data_regexp.html
+[boolean]: ./future_lang_data_boolean.markdown
+[regex]: ./future_lang_data_regexp.markdown
 [facts]: ./future_lang_variables.html#facts
 [equality]: ./future_lang_expressions.html#equality
 [fail]: ./function.html#fail
 [matching]: ./future_lang_expressions.html#regex-match
-[expressions]: ./future_lang_expressions.html
-[bool_convert]: ./future_lang_data_boolean.html
-[variables]: ./future_lang_variables.html
-[functions]: ./future_lang_functions.html
-[datatypes]: ./future_lang_data.html
+[expressions]: ./future_lang_expressions.markdown
+[bool_convert]: ./future_lang_data_boolean.markdown
+[variables]: ./future_lang_variables.markdown
+[functions]: ./future_lang_functions.markdown
+[datatypes]: ./future_lang_data.markdown
 [splat]: ./future_lang_expressions.html#splat
-[literal_types]: ./future_lang_data_type.html
+[literal_types]: ./future_lang_data_type.markdown
 
 Conditional statements let your Puppet code behave differently in different situations. They are most helpful when combined with [facts][] or with data retrieved from an external source.
 

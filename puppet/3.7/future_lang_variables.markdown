@@ -1,21 +1,20 @@
 ---
 layout: default
 title: "Future Parser: Variables"
-canonical: "/puppet/latest/reference/lang_variables.html"
 ---
 
 
-[expressions]: ./future_lang_expressions.html
+[expressions]: ./future_lang_expressions.markdown
 [acceptable]: ./future_lang_reserved.html#variables
 [reserved]: ./future_lang_reserved.html#reserved-variable-names
-[datatype]: ./future_lang_data.html
+[datatype]: ./future_lang_data.markdown
 [double_quote]: ./future_lang_data_string.html#double-quoted-strings
-[functions]: ./future_lang_functions.html
-[resource]: ./future_lang_resources.html
-[scope]: ./future_lang_scope.html
-[undef]: ./future_lang_data_undef.html
+[functions]: ./future_lang_functions.markdown
+[resource]: ./future_lang_resources.markdown
+[scope]: ./future_lang_scope.markdown
+[undef]: ./future_lang_data_undef.markdown
 [strict_variables]: ./configuration.html#strictvariables
-[puppet.conf]: ./config_file_main.html
+[puppet.conf]: ./config_file_main.markdown
 
 
  <a id="facts"><a id="trusted-node-data"><a id="agent-set-variables"><a id="master-set-variables"><a id="parser-set-variables">

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Directories: The Main Config Directory (Confdir)"
-canonical: "/puppet/latest/reference/dirs_confdir.html"
 ---
 
 [listen]: ./configuration.html#listen

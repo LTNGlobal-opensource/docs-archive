@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Config Files: device.conf"
-canonical: "/puppet/latest/reference/config_file_device.html"
 ---
 
 [deviceconfig]: ./configuration.html#deviceconfig
@@ -14,7 +13,7 @@ The `device.conf` file is located at `$confdir/device.conf` by default. Its loca
 
 The location of the `confdir` varies; it depends on the OS, Puppet distribution, and user account. [See the confdir documentation for details.][confdir]
 
-[confdir]: ./dirs_confdir.html
+[confdir]: ./dirs_confdir.markdown
 
 ## Format
 

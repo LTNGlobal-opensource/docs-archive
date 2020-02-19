@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Function Reference"
-canonical: "/puppet/latest/reference/function.html"
 ---
 
 

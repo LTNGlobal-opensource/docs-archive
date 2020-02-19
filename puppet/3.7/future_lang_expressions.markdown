@@ -1,31 +1,30 @@
 ---
 title: "Future Parser: Expressions and Operators"
 layout: default
-canonical: "/puppet/latest/reference/lang_expressions.html"
 ---
 
-[datatypes]: ./future_lang_data.html
-[boolean]: ./future_lang_data_boolean.html
-[numbers]: ./future_lang_data_number.html
-[strings]: ./future_lang_data_string.html
-[arrays]: ./future_lang_data_array.html
-[hashes]: ./future_lang_data_hash.html
-[regex]: ./future_lang_data_regexp.html
+[datatypes]: ./future_lang_data.markdown
+[boolean]: ./future_lang_data_boolean.markdown
+[numbers]: ./future_lang_data_number.markdown
+[strings]: ./future_lang_data_string.markdown
+[arrays]: ./future_lang_data_array.markdown
+[hashes]: ./future_lang_data_hash.markdown
+[regex]: ./future_lang_data_regexp.markdown
 [if]: ./future_lang_conditional.html#if-statements
 [case]: ./future_lang_conditional.html#case-statements
 [selector]: ./future_lang_conditional.html#selectors
-[function]: ./future_lang_functions.html
-[bool_convert]: ./future_lang_data_boolean.html
-[variables]: ./future_lang_variables.html
-[resources]: ./future_lang_resources.html
-[class]: ./future_lang_classes.html
-[defined types]: ./future_lang_defined_types.html
-[node definitions]: ./future_lang_node_definitions.html
-[resource collectors]: ./future_lang_collectors.html
+[function]: ./future_lang_functions.markdown
+[bool_convert]: ./future_lang_data_boolean.markdown
+[variables]: ./future_lang_variables.markdown
+[resources]: ./future_lang_resources.markdown
+[class]: ./future_lang_classes.markdown
+[defined types]: ./future_lang_defined_types.markdown
+[node definitions]: ./future_lang_node_definitions.markdown
+[resource collectors]: ./future_lang_collectors.markdown
 [chaining]: ./future_lang_relationships.html#syntax-chaining-arrows
-[literal_types]: ./future_lang_data_type.html
+[literal_types]: ./future_lang_data_type.markdown
 [spec]: https://github.com/puppetlabs/puppet-specifications
-[lambdas]: ./future_lang_lambdas.html
+[lambdas]: ./future_lang_lambdas.markdown
 
 **Expressions** are statements that resolve to values.
 

@@ -3,15 +3,15 @@ layout: default
 title: "Creating Directory Environments"
 ---
 
-[config_print]: ./config_print.html
+[config_print]: ./config_print.markdown
 [env_conf_path]: ./environments_configuring.html#environmentpath
-[enable_dirs]: ./environments_configuring.html
-[assign]: ./environments_assigning.html
-[about]: ./environments.html
-[manifest_dir]: ./dirs_manifest.html
-[environment.conf]: ./config_file_environment.html
-[modulepath]: ./dirs_modulepath.html
-[puppet.conf]: ./config_file_main.html
+[enable_dirs]: ./environments_configuring.markdown
+[assign]: ./environments_assigning.markdown
+[about]: ./environments.markdown
+[manifest_dir]: ./dirs_manifest.markdown
+[environment.conf]: ./config_file_environment.markdown
+[modulepath]: ./dirs_modulepath.markdown
+[puppet.conf]: ./config_file_main.markdown
 [basemodulepath]: ./configuration.html#basemodulepath
 [default_manifest]: ./configuration.html#defaultmanifest
 [disable_per_environment_manifest]: ./configuration.html#disableperenvironmentmanifest

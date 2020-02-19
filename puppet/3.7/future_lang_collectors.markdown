@@ -1,23 +1,22 @@
 ---
 layout: default
 title: "Future Parser: Resource Collectors"
-canonical: "/puppet/latest/reference/lang_collectors.html"
 ---
 
-[virtual]: ./future_lang_virtual.html
+[virtual]: ./future_lang_virtual.markdown
 [realize]: ./future_lang_virtual.html#syntax
-[exported]: ./future_lang_exported.html
+[exported]: ./future_lang_exported.markdown
 [puppetdb]: /puppetdb/
-[puppetdb_install]: /puppetdb/latest/install_via_module.html
-[puppetdb_connect]: /puppetdb/latest/connect_puppet_master.html
+[puppetdb_install]: /puppetdb/latest/install_via_module.markdown
+[puppetdb_connect]: /puppetdb/latest/connect_puppet_master.markdown
 [chaining]: ./future_lang_relationships.html#chaining-arrows
 [attribute]: ./future_lang_resources.html#attributes
-[expressions]: ./future_lang_expressions.html
-[string]: ./future_lang_data_string.html
-[boolean]: ./future_lang_data_boolean.html
-[number]: ./future_lang_data_number.html
-[reference]: ./future_lang_data_resource_reference.html
-[undef]: ./future_lang_data_undef.html
+[expressions]: ./future_lang_expressions.markdown
+[string]: ./future_lang_data_string.markdown
+[boolean]: ./future_lang_data_boolean.markdown
+[number]: ./future_lang_data_number.markdown
+[reference]: ./future_lang_data_resource_reference.markdown
+[undef]: ./future_lang_data_undef.markdown
 [amend]: ./future_lang_resources_advanced.html#amending-attributes-with-a-collector
 [catalog]: ./future_lang_summary.html#compilation-and-catalogs
 

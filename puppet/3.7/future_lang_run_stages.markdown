@@ -1,14 +1,13 @@
 ---
 layout: default
 title: "Future Parser: Run Stages"
-canonical: "/puppet/latest/reference/lang_run_stages.html"
 ---
 
 [metaparameter]: ./future_lang_resources.html#metaparameters
-[ordering]: ./future_lang_relationships.html
-[class]: ./future_lang_classes.html
+[ordering]: ./future_lang_relationships.markdown
+[class]: ./future_lang_classes.markdown
 [resourcelike]: ./future_lang_classes.html#using-resource-like-declarations
-[containment]: ./future_lang_containment.html
+[containment]: ./future_lang_containment.markdown
 
 Run stages are an additional way to order resources. They allow groups of classes to run before or after nearly everything else, without having to explicitly create relationships with every other class.
 

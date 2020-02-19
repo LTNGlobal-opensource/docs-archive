@@ -1,14 +1,13 @@
 ---
 layout: default
 title: "Language: Resource Defaults"
-canonical: "/puppet/latest/reference/lang_defaults.html"
 ---
 
-[sitemanifest]: ./dirs_manifest.html
+[sitemanifest]: ./dirs_manifest.markdown
 [dynamic_scope]: ./lang_scope.html#scope-lookup-rules
-[resource]: ./lang_resources.html
-[definedtypes]: ./lang_defined_types.html
-[node]: ./lang_node_definitions.html
+[resource]: ./lang_resources.markdown
+[definedtypes]: ./lang_defined_types.markdown
+[node]: ./lang_node_definitions.markdown
 
 Resource defaults let you set default attribute values for a given resource type. Any resource declaration within the area of effect that omits those attributes will inherit the default values.
 

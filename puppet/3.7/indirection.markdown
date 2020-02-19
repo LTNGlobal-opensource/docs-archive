@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Indirection Reference"
-canonical: "/puppet/latest/reference/indirection.html"
 ---
 
 

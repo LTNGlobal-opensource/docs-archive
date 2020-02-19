@@ -1,19 +1,18 @@
 ---
 layout: default
 title: "Config Files: The Main Config File (puppet.conf)"
-canonical: "/puppet/latest/reference/config_file_main.html"
 ---
 
-[conf_ref]: ./configuration.html
-[about]: ./config_about_settings.html
-[short]: ./config_important_settings.html
+[conf_ref]: ./configuration.markdown
+[about]: ./config_about_settings.markdown
+[short]: ./config_important_settings.markdown
 [config]: ./configuration.html#config
 [subcommands]: ./man/
-[conf_environments]: ./environments_classic.html
+[conf_environments]: ./environments_classic.markdown
 [reports]: ./configuration.html#reports
 [modulepath]: ./configuration.html#modulepath
 [ssldir]: ./configuration.html#ssldir
-[dir_environments]: ./environments.html
+[dir_environments]: ./environments.markdown
 
 The `puppet.conf` file is Puppet's main config file. It configures all of the Puppet commands and services, including Puppet agent, Puppet master, Puppet apply, and Puppet cert. Nearly all of the settings listed in the [configuration reference][conf_ref] can be set in puppet.conf.
 
@@ -30,7 +29,7 @@ Although its location is configurable with the [`config` setting][config], it ca
 
 The location of the `confdir` varies; it depends on the OS, Puppet distribution, and user account. [See the confdir documentation for details.][confdir]
 
-[confdir]: ./dirs_confdir.html
+[confdir]: ./dirs_confdir.markdown
 
 
 ## Example

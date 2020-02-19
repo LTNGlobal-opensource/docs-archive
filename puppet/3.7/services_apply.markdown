@@ -1,24 +1,23 @@
 ---
 layout: default
 title: "Puppet's Services: Puppet Apply"
-canonical: "/puppet/latest/reference/services_apply.html"
 ---
 
 
-[man]: ./man/apply.html
-[type reference]: ./type.html
-[environments]: ./environments.html
-[main manifest]: ./dirs_manifest.html
+[man]: ./man/apply.markdown
+[type reference]: ./type.markdown
+[environments]: ./environments.markdown
+[main manifest]: ./dirs_manifest.markdown
 [manifest_setting]: ./configuration.html#manifest
 [env_main_manifest]: ./environments.html#manifests-directory--main-manifest
-[modules]: ./modules_fundamentals.html
-[enc]: /guides/external_nodes.html
+[modules]: ./modules_fundamentals.markdown
+[enc]: /guides/external_nodes.markdown
 [http_report]: ./report.html#http
 [puppetdb]: /puppetdb/latest
-[report handlers]: ./report.html
+[report handlers]: ./report.markdown
 [reports_setting]: ./configuration.html#reports
-[reports_guide]: /guides/reporting.html
-[puppet.conf]: ./config_file_main.html
+[reports_guide]: /guides/reporting.markdown
+[puppet.conf]: ./config_file_main.markdown
 [short_settings]: ./config_important_settings.html#settings-for-agents-all-nodes
 
 Puppet apply is an application that compiles and manages configurations on nodes. It acts like a self-contained combination of the Puppet master and Puppet agent applications. For more info about Puppet's architecture, see [Overview of Puppet's Architecture](./architecture.html) --- in particular, read the note at the end about [differences and trade-offs between agent/master and puppet apply.](architecture.html#note-differences-between-agentmaster-and-puppet-apply)

@@ -1,26 +1,25 @@
 ---
 layout: default
 title: "Language: Exported Resources"
-canonical: "/puppet/latest/reference/lang_exported.html"
 ---
 
-[resources]: ./lang_resources.html
+[resources]: ./lang_resources.markdown
 [nagios_service]: ./type.html#nagiosservice
 [concat]: http://forge.puppetlabs.com/ripienaar/concat
 [title]: ./lang_resources.html#title
 [namevar]: ./lang_resources.html#namenamevar
 [hostname]: /facter/latest/core_facts.html#hostname
 [fqdn]: /facter/latest/core_facts.html#fqdn
-[tags]: ./lang_tags.html
+[tags]: ./lang_tags.markdown
 [facts]: ./lang_variables.html#facts
 [bacula]: https://forge.puppetlabs.com/puppetlabs/bacula
 [exported_collector]: ./lang_collectors.html#exported-resource-collectors
 [search]: ./lang_collectors.html#search-expressions
 [puppetdb]: /puppetdb/1
-[puppetdb_connect]: /puppetdb/latest/connect_puppet_master.html
-[puppetdb_install]: /puppetdb/latest/install_via_module.html
+[puppetdb_connect]: /puppetdb/latest/connect_puppet_master.markdown
+[puppetdb_install]: /puppetdb/latest/install_via_module.markdown
 [ar_storeconfigs]: http://projects.puppetlabs.com/projects/puppet/wiki/Using_Stored_Configuration
-[exported_guide]: /guides/exported_resources.html
+[exported_guide]: /guides/exported_resources.markdown
 [catalog]: ./lang_summary.html#compilation-and-catalogs
 
 > **Note:** Exported resources require catalog storage and searching (formerly known as "storeconfigs") to be enabled on your Puppet master. Both the catalog storage and the searching (among other features) are provided by [PuppetDB][]. To enable exported resources, follow these instructions:

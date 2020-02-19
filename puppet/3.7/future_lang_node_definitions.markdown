@@ -1,26 +1,25 @@
 ---
 layout: default
 title: "Future Language: Node Definitions"
-canonical: "/puppet/latest/reference/lang_node_definitions.html"
 ---
 
 [hiera]: /hiera/latest
-[sitepp]: ./dirs_manifest.html
+[sitepp]: ./dirs_manifest.markdown
 [certname]: ./config_important_settings.html#basics
-[classes]: ./future_lang_classes.html
+[classes]: ./future_lang_classes.markdown
 [nodescope]: ./future_lang_scope.html#node-scope
 [topscope]: ./future_lang_scope.html#top-scope
 [extlookup]: ./function.html#extlookup
-[custom_functions]: /guides/custom_functions.html
-[regex]: ./future_lang_data_regexp.html
-[strings]: ./future_lang_data_string.html
+[custom_functions]: /guides/custom_functions.markdown
+[regex]: ./future_lang_data_regexp.markdown
+[strings]: ./future_lang_data_string.markdown
 [inherit]: ./future_lang_classes.html#inheritance
-[modules]: ./modules_fundamentals.html
-[enc]: /guides/external_nodes.html
+[modules]: ./modules_fundamentals.markdown
+[enc]: /guides/external_nodes.markdown
 [facts]: ./future_lang_variables.html#facts-and-built-in-variables
 [catalogs]: ./future_lang_summary.html#compilation-and-catalogs
 [strict]: ./configuration.html#stricthostnamechecking
-[conditional]: ./future_lang_conditional.html
+[conditional]: ./future_lang_conditional.markdown
 
 
 A **node definition** or **node statement** is a block of Puppet code that will only be included in matching nodes' [catalogs][]. This feature allows you to assign specific configurations to specific nodes.

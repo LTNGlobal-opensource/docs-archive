@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "History of Puppet Language Features"
-nav: /_includes/puppet_general.html
+nav: /_includes/puppet_general.markdown
 ---
 
 The Puppet language has changed significantly over time, with many features being added and some features being removed. This page tracks a subset of those changes, showing how the language has evolved and when various features became available.
@@ -42,7 +42,7 @@ Iteration over arrays and hashes                                                
 
 [auto_params]: /hiera/1/puppet.html#automatic-parameter-lookup
 [param_trail]: /puppet/latest/reference/lang_defined_types.html#defining-a-type
-[ds]: /puppet/2.7/reference/lang_scope.html
+[ds]: /puppet/2.7/reference/lang_scope.markdown
 [plusign]: /puppet/latest/reference/lang_classes.html#appending-to-resource-attributes
 [ccomment]: /puppet/latest/reference/lang_comments.html#c-style-comments
 [rel_array]: /puppet/latest/reference/lang_relationships.html#relationship-metaparameters
@@ -56,7 +56,7 @@ Iteration over arrays and hashes                                                
 [chain]: /puppet/latest/reference/lang_relationships.html#chaining-arrows
 [hashes]: /puppet/latest/reference/lang_datatypes.html#hashes
 [class_params]: /puppet/latest/reference/lang_classes.html#class-parameters-and-variables
-[stages]: /puppet/latest/reference/lang_run_stages.html
+[stages]: /puppet/latest/reference/lang_run_stages.markdown
 [in]: /puppet/latest/reference/lang_expressions.html#in
 [titleparam]: /puppet/latest/reference/lang_defined_types.html#title-and-name
 [hyphenvars]: /puppet/latest/reference/lang_variables.html#naming

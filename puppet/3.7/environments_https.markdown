@@ -1,13 +1,12 @@
 ---
 layout: default
 title: "Environments and Puppet's HTTPS Interface"
-canonical: "/puppet/latest/reference/environments_https.html"
 ---
 
 [v1 api]: ./yard/file.http_api_index.html#V1_API_Services
-[http_api]: ./yard/file.http_api_index.html
-[auth.conf file]: ./config_file_auth.html
-[config_file_envs]: ./environments_classic.html
+[http_api]: ./yard/file.http_api_index.markdown
+[auth.conf file]: ./config_file_auth.markdown
+[config_file_envs]: ./environments_classic.markdown
 
 
 Puppet's environments interact in several ways with Puppet's HTTPS interface.
@@ -51,5 +50,5 @@ This _only works for directory environments._ When you query environments via th
 For more details, see [the reference page about the environments endpoint.][env_endpoint]
 
 [v2_api]: ./yard/file.http_api_index.html#V2_HTTP_API
-[env_endpoint]: ./yard/file.http_environments.html
+[env_endpoint]: ./yard/file.http_environments.markdown
 

@@ -1,15 +1,14 @@
 ---
 layout: default
 title: "Future Parser: Virtual Resources"
-canonical: "/puppet/latest/reference/lang_virtual.html"
 ---
 
-[resources]: ./future_lang_resources.html
-[references]: ./future_lang_data_resource_reference.html
-[classes]: ./future_lang_classes.html
+[resources]: ./future_lang_resources.markdown
+[references]: ./future_lang_data_resource_reference.markdown
+[classes]: ./future_lang_classes.markdown
 [realize_function]: ./function.html#realize
 [include]: ./future_lang_classes.html#using-include
-[collectors]: ./future_lang_collectors.html
+[collectors]: ./future_lang_collectors.markdown
 [search_expression]: ./future_lang_collectors.html#search-expressions
 [override]: ./future_lang_resources_advanced.html#amending-attributes-with-a-collector
 [chaining]: ./future_lang_relationships.html#chaining-arrows

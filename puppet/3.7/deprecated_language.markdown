@@ -3,7 +3,7 @@ layout: default
 title: "Deprecated Language Features"
 ---
 
-[main manifest]: ./dirs_manifest.html
+[main manifest]: ./dirs_manifest.markdown
 
 The following features of the Puppet language are deprecated, and will be removed in Puppet 4.0.
 

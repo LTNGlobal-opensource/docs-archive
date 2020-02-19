@@ -1,10 +1,9 @@
 ---
 layout: default
 title: "Config Files: autosign.conf"
-canonical: "/puppet/latest/reference/config_file_autosign.html"
 ---
 
-[autosigning]: ./ssl_autosign.html
+[autosigning]: ./ssl_autosign.markdown
 [autosign]: ./configuration.html#autosign
 
 The `autosign.conf` file can allow certain certificate requests to be automatically signed. It is only valid on the CA Puppet master server; a Puppet master that is not serving as a CA will not consult `autosign.conf`.
@@ -21,7 +20,7 @@ The `autosign.conf` file is located at `$confdir/autosign.conf` by default. Its 
 
 The location of the `confdir` varies; it depends on the OS, Puppet distribution, and user account. [See the confdir documentation for details.][confdir]
 
-[confdir]: ./dirs_confdir.html
+[confdir]: ./dirs_confdir.markdown
 
 ## Format
 

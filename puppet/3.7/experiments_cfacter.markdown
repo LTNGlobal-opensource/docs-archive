@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Experimental Features: Native Facter"
-canonical: "/puppet/latest/reference/experiments_cfacter.html"
 ---
 
 [users_group]: https://groups.google.com/forum/#!forum/puppet-users

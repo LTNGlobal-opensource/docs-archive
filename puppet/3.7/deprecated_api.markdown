@@ -4,10 +4,10 @@ title: "Deprecated Extension Points and APIs"
 ---
 
 [inventory service]: https://github.com/puppetlabs/puppet-docs/blob/0db89cbafa112be256aab67c42b913501200cdca/source/guides/inventory_service.markdown
-[puppet.conf]: ./config_file_main.html
+[puppet.conf]: ./config_file_main.markdown
 [puppetdb]: /puppetdb/latest
-[auth.conf]: ./config_file_auth.html
-[exported resources]: ./lang_exported.html
+[auth.conf]: ./config_file_auth.markdown
+[exported resources]: ./lang_exported.markdown
 
 
 The following APIs and extension points are deprecated, and will be removed in Puppet 4.0.

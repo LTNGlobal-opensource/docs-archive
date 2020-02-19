@@ -1,28 +1,27 @@
 ---
 title: "Future Parser: Defined Resource Types"
 layout: default
-canonical: "/puppet/latest/reference/lang_defined_types.html"
 ---
 
-[literal_types]: ./future_lang_data_type.html
-[sitedotpp]: ./dirs_manifest.html
-[namespaces]: ./future_lang_namespaces.html
-[collector]: ./future_lang_collectors.html
-[resource]: ./future_lang_resources.html
+[literal_types]: ./future_lang_data_type.markdown
+[sitedotpp]: ./dirs_manifest.markdown
+[namespaces]: ./future_lang_namespaces.markdown
+[collector]: ./future_lang_collectors.markdown
+[resource]: ./future_lang_resources.markdown
 [naming]: ./future_lang_reserved.html#classes-and-types
 [resource_namevar]: ./future_lang_resources.html#namenamevar
-[relationships]: ./future_lang_relationships.html
+[relationships]: ./future_lang_relationships.markdown
 [resource_title]: ./future_lang_resources.html#title
 [metaparameters]: ./future_lang_resources.html#metaparameters
-[modules]: ./modules_fundamentals.html
-[resource_defaults]: ./future_lang_defaults.html
-[classes]: ./future_lang_classes.html
+[modules]: ./modules_fundamentals.markdown
+[resource_defaults]: ./future_lang_defaults.markdown
+[classes]: ./future_lang_classes.markdown
 [variable_assignment]: ./future_lang_variables.html#assignment
-[variable]: ./future_lang_variables.html
-[references_namespaced]: ./future_lang_data_resource_reference.html
+[variable]: ./future_lang_variables.markdown
+[references_namespaced]: ./future_lang_data_resource_reference.markdown
 [attributes]: ./future_lang_resources.html#attributes
 [title]: ./future_lang_resources.html#title
-[contains]: ./future_lang_containment.html
+[contains]: ./future_lang_containment.markdown
 [catalog]: ./future_lang_summary.html#compilation-and-catalogs
 
 **Defined resource types** (also called **defined types** or **defines**) are blocks of Puppet code that can be evaluated multiple times with different parameters. Once defined, they act like a new resource type: you can cause the block to be evaluated by [declaring a resource][resource] of that new resource type.

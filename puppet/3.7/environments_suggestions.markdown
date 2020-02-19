@@ -1,11 +1,10 @@
 ---
 layout: default
 title: "Environments: Suggestions for Use"
-canonical: "/puppet/latest/reference/environments_suggestions.html"
 ---
 
 [adrien_blog]: http://puppetlabs.com/blog/git-workflow-and-puppet-environments
-[directory_environments]: ./environments.html
+[directory_environments]: ./environments.markdown
 
 The main uses for environments tend to fall into a few categories. A single group of admins might use several of them for different purposes.
 

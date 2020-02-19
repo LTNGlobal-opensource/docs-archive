@@ -6,11 +6,11 @@ title: "Deprecated Settings"
 [manifest_setting]: ./configuration.html#manifest
 [modulepath_setting]: ./configuration.html#modulepath
 [config_version]: ./configuration.html#configversion
-[puppet.conf]: ./config_file_main.html
-[environment.conf]: ./config_file_environment.html
+[puppet.conf]: ./config_file_main.markdown
+[environment.conf]: ./config_file_environment.markdown
 [cli_settings]: ./config_about_settings.html#settings-can-be-set-on-the-command-line
-[config file environments]: ./environments_classic.html
-[directory environments]: ./environments.html
+[config file environments]: ./environments_classic.markdown
+[directory environments]: ./environments.markdown
 [puppetdb]: /puppetdb/latest
 [inventory service]: https://github.com/puppetlabs/puppet-docs/blob/0db89cbafa112be256aab67c42b913501200cdca/source/guides/inventory_service.markdown
 

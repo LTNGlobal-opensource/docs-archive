@@ -1,13 +1,12 @@
 ---
 title: "Language: Importing Manifests"
 layout: default
-canonical: "/puppet/latest/reference/lang_import.html"
 ---
 
-[site_manifest]: ./dirs_manifest.html
-[modules]: ./modules_fundamentals.html
-[enc]: /guides/external_nodes.html
-[node_definition]: ./lang_node_definitions.html
+[site_manifest]: ./dirs_manifest.markdown
+[modules]: ./modules_fundamentals.markdown
+[enc]: /guides/external_nodes.markdown
+[node_definition]: ./lang_node_definitions.markdown
 
 Puppet's normal behavior is to compile a single manifest (the "[site manifest][site_manifest]") and autoload any referenced classes from [modules][] (optionally doing the same with a list of classes from an [ENC][]).
 

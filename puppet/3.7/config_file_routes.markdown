@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Config Files: routes.yaml"
-canonical: "/puppet/latest/reference/config_file_routes.html"
 ---
 
 [route_file]: ./configuration.html#routefile
@@ -18,7 +17,7 @@ The `routes.yaml` file is located at `$confdir/routes.yaml` by default. Its loca
 
 The location of the `confdir` varies; it depends on the OS, Puppet distribution, and user account. [See the confdir documentation for details.][confdir]
 
-[confdir]: ./dirs_confdir.html
+[confdir]: ./dirs_confdir.markdown
 
 ## Example
 

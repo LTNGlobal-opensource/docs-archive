@@ -1,11 +1,10 @@
 ---
 layout: default
 title: "Puppet's Services: The WEBrick Puppet Master"
-canonical: "/puppet/latest/reference/services_master_webrick.html"
 ---
 
-[webrick]: http://ruby-doc.org/stdlib/libdoc/webrick/rdoc/WEBrick.html
-[rack_master]: ./services_master_rack.html
+[webrick]: http://ruby-doc.org/stdlib/libdoc/webrick/rdoc/WEBrick.markdown
+[rack_master]: ./services_master_rack.markdown
 
 Puppet master is the application that compiles configurations for any number of Puppet agent nodes, using Puppet code and various other data sources. (For more info, see [Overview of Puppet's Architecture](./architecture.html).)
 
@@ -71,5 +70,5 @@ When running from the command line, Puppet master can directly accept command li
 
 To change the Puppet master's settings, you should generally use [puppet.conf][]. The only two options you may want to set on the command line or in the init script config file are `--verbose` or `--debug`, to change the amount of detail in the logs.
 
-[about_settings]: ./config_about_settings.html
-[puppet.conf]: ./config_file_main.html
+[about_settings]: ./config_about_settings.markdown
+[puppet.conf]: ./config_file_main.markdown

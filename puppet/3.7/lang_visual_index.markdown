@@ -1,39 +1,38 @@
 ---
 layout: default
 title: "Language: Visual Index"
-canonical: "/puppet/latest/reference/lang_visual_index.html"
 ---
 
 
-[resource]: ./lang_resources.html
+[resource]: ./lang_resources.markdown
 [type]: ./lang_resources.html#type
 [title]: ./lang_resources.html#title
 [attribute]: ./lang_resources.html#attributes
 [value]: ./lang_resources.html#attributes
 [string]: ./lang_datatypes.html#strings
-[function]: ./lang_functions.html
+[function]: ./lang_functions.markdown
 [rvalue]: ./lang_functions.html#behavior
-[template_func]: /guides/templating.html
-[module]: modules_fundamentals.html
+[template_func]: /guides/templating.markdown
+[module]: modules_fundamentals.markdown
 [argument]: ./lang_functions.html#arguments
 [relationship_meta]: ./lang_relationships.html#relationship-metaparameters
 [refs]: ./lang_datatypes.html#resource-references
 [chaining]: ./lang_relationships.html#chaining-arrows
-[variable]: ./lang_variables.html
+[variable]: ./lang_variables.markdown
 [array]: ./lang_datatypes.html#arrays
 [hash]: ./lang_datatypes.html#hashes
 [interpolation]: ./lang_datatypes.html#variable-interpolation
 [class_def]: ./lang_classes.html#defining-classes
 [class_decl]: ./lang_classes.html#declaring-classes
-[defined_type]: ./lang_defined_types.html
-[namespace]: ./lang_namespaces.html
+[defined_type]: ./lang_defined_types.markdown
+[namespace]: ./lang_namespaces.markdown
 [defined_resource]: ./lang_defined_types.html#declaring-an-instance
-[node]: ./lang_node_definitions.html
+[node]: ./lang_node_definitions.markdown
 [regex_node]: ./lang_node_definitions.html#regular-expression-names
-[import]: ./lang_import.html
-[comments]: ./lang_comments.html
+[import]: ./lang_import.markdown
+[comments]: ./lang_comments.markdown
 [if]: ./lang_conditional.html#if-statements
-[expressions]: ./lang_expressions.html
+[expressions]: ./lang_expressions.markdown
 [built_in]: ./lang_variables.html#facts-and-built-in-variables
 [facts]: ./lang_variables.html#facts
 [regex]: ./lang_datatypes.html#regular-expressions
@@ -41,14 +40,14 @@ canonical: "/puppet/latest/reference/lang_visual_index.html"
 [in]: ./lang_expressions.html#in
 [case]: ./lang_conditional.html#case-statements
 [selector]: ./lang_conditional.html#selectors
-[collector]: ./lang_collectors.html
+[collector]: ./lang_collectors.markdown
 [export_collector]: ./lang_collectors.html#exported-resource-collectors
-[export]: ./lang_exported.html
-[defaults]: ./lang_defaults.html
+[export]: ./lang_exported.markdown
+[defaults]: ./lang_defaults.markdown
 [override]: ./lang_classes.html#overriding-resource-attributes
 [inherits]: ./lang_classes.html#inheritance
 [coll_override]: ./lang_resources.html#amending-attributes-with-a-collector
-[virtual]: ./lang_virtual.html
+[virtual]: ./lang_virtual.markdown
 
 This page can help you find syntax elements when you can't remember their names.
 

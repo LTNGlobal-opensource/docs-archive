@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Config Files: hiera.yaml"
-canonical: "/puppet/latest/reference/config_file_hiera.html"
 ---
 
 [hiera]: /hiera/latest/
@@ -17,7 +16,7 @@ When Puppet loads Hiera, it will use its own Hiera config file instead of the gl
 
 The location of the `confdir` varies; it depends on the OS, Puppet distribution, and user account. [See the confdir documentation for details.][confdir]
 
-[confdir]: ./dirs_confdir.html
+[confdir]: ./dirs_confdir.markdown
 
 
 ## Example

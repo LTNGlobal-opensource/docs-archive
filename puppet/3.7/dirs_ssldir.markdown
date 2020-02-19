@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Directories: The SSLdir"
-canonical: "/puppet/latest/reference/dirs_ssldir.html"
 ---
 
 
@@ -29,10 +28,10 @@ canonical: "/puppet/latest/reference/dirs_ssldir.html"
 [hostprivkey]: ./configuration.html#hostprivkey
 [publickeydir]: ./configuration.html#publickeydir
 [hostpubkey]: ./configuration.html#hostpubkey
-[vardir]: ./dirs_vardir.html
-[confdir]: ./dirs_confdir.html
+[vardir]: ./dirs_vardir.markdown
+[confdir]: ./dirs_confdir.markdown
 [certname]: ./configuration.html#certname
-[print_settings]: ./config_print.html
+[print_settings]: ./config_print.markdown
 
 
 

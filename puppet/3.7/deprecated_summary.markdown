@@ -3,7 +3,7 @@ layout: default
 title: "About Deprecations in This Version of Puppet"
 ---
 
-[puppet.conf]: ./config_file_main.html
+[puppet.conf]: ./config_file_main.markdown
 
 ## About Deprecations in Puppet 3.7
 

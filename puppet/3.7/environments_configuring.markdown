@@ -4,18 +4,18 @@ title: "Configuring Directory Environments"
 ---
 
 [environmentpath]: ./configuration.html#environmentpath
-[confdir]: ./dirs_confdir.html
-[puppet.conf]: ./config_file_main.html
-[modulepath]: ./dirs_modulepath.html
+[confdir]: ./dirs_confdir.markdown
+[puppet.conf]: ./config_file_main.markdown
+[modulepath]: ./dirs_modulepath.markdown
 [basemodulepath]: ./configuration.html#basemodulepath
-[environment.conf]: ./config_file_environment.html
+[environment.conf]: ./config_file_environment.markdown
 [environment_timeout]: ./configuration.html#environmenttimeout
-[create_environment]: ./environments_creating.html
-[about]: ./environments.html
-[assign]: ./environments_assigning.html
+[create_environment]: ./environments_creating.markdown
+[about]: ./environments.markdown
+[assign]: ./environments_assigning.markdown
 [default_manifest]: ./configuration.html#defaultmanifest
 [disable_per_environment_manifest]: ./configuration.html#disableperenvironmentmanifest
-[main manifest]: ./dirs_manifest.html
+[main manifest]: ./dirs_manifest.markdown
 
 
 Before you can use directory environments, you have to configure Puppet to enable them.
@@ -134,7 +134,7 @@ This requires `default_manifest` to be an absolute path.
 
 [inpage_timeout]: #environmenttimeout
 [puppetserver.conf]: /puppetserver/latest/configuration.html#puppetserverconf
-[environment-cache]: /puppetserver/latest/admin-api/v1/environment-cache.html
+[environment-cache]: /puppetserver/latest/admin-api/v1/environment-cache.markdown
 
 [(See also: Full description of `environment_timeout` setting.)](./configuration.html#environmenttimeout)
 

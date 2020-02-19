@@ -1,24 +1,23 @@
 ---
 layout: default
 title: "Future Parser: Relationships and Ordering"
-canonical: "/puppet/latest/reference/lang_relationships.html"
 ---
 
-[virtual]: ./future_lang_virtual.html
-[collector]: ./future_lang_collectors.html
-[resources]: ./future_lang_resources.html
-[reference]: ./future_lang_data_resource_reference.html
-[array]: ./future_lang_data_array.html
-[class]: ./future_lang_classes.html
+[virtual]: ./future_lang_virtual.markdown
+[collector]: ./future_lang_collectors.markdown
+[resources]: ./future_lang_resources.markdown
+[reference]: ./future_lang_data_resource_reference.markdown
+[array]: ./future_lang_data_array.markdown
+[class]: ./future_lang_classes.markdown
 [event]: ./future_lang_resources.html#behavior
 [service]: ./type.html#service
 [exec]: ./type.html#exec
-[type]: ./type.html
+[type]: ./type.markdown
 [mount]: ./type.html#mount
 [metaparameters]: ./future_lang_resources.html#metaparameters
 [require_function]: ./future_lang_classes.html#using-require
 [moar]: ./configuration.html#ordering
-[lambdas]: ./future_lang_lambdas.html
+[lambdas]: ./future_lang_lambdas.markdown
 
 
 

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Puppet 3.7 System Requirements"
-canonical: "/puppet/latest/reference/system_requirements.html"
 ---
 
 > This is an old version of Puppet. If you'd like to install Puppet 3.7, see [the Puppet 3.8 installation guide](/puppet/3.8/reference/pre_install.html), as the processes are the same.
